@@ -161,7 +161,10 @@ function update_player_ping_text(trigger_chip)
         end
     end
     
-    text = string.format('%d pings', count)
+    text = ' '
+    if count > 0 then
+        text = string.format('%d pings', count)
+    end
     player_assets[trigger_chip_color].pings.setValue(text)
 end
 

@@ -1,7 +1,7 @@
 {
   "SaveName": "fancy_custom_poker",
   "GameMode": "poker",
-  "Date": "11/15/2020 2:33:18 PM",
+  "Date": "11/15/2020 3:55:46 PM",
   "Gravity": 0.5,
   "PlayArea": 0.5,
   "GameType": "",
@@ -88,9 +88,9 @@
           "rotX": 0.0,
           "rotY": 135.000015,
           "rotZ": 0.0,
-          "scaleX": 9.418547,
+          "scaleX": 9.418593,
           "scaleY": 8.96114,
-          "scaleZ": 5.46857262
+          "scaleZ": 5.46859837
         }
       },
       {
@@ -102,9 +102,9 @@
           "rotX": 0.0,
           "rotY": 270.0,
           "rotZ": 0.0,
-          "scaleX": 9.421155,
+          "scaleX": 9.421232,
           "scaleY": 8.96114,
-          "scaleZ": 5.46951628
+          "scaleZ": 5.469555
         }
       },
       {
@@ -116,9 +116,9 @@
           "rotX": 0.0,
           "rotY": 224.999985,
           "rotZ": 0.0,
-          "scaleX": 9.418285,
+          "scaleX": 9.418335,
           "scaleY": 8.96114,
-          "scaleZ": 5.468354
+          "scaleZ": 5.468383
         }
       },
       {
@@ -144,9 +144,9 @@
           "rotX": 0.0,
           "rotY": 179.8,
           "rotZ": 0.0,
-          "scaleX": 9.420502,
+          "scaleX": 9.420573,
           "scaleY": 8.96114,
-          "scaleZ": 5.471935
+          "scaleZ": 5.472001
         }
       },
       {
@@ -172,9 +172,9 @@
           "rotX": 0.0,
           "rotY": 90.0,
           "rotZ": 0.0,
-          "scaleX": 9.420595,
+          "scaleX": 9.420667,
           "scaleY": 8.96114,
-          "scaleZ": 5.469114
+          "scaleZ": 5.469149
         }
       }
     ]
@@ -328,11 +328,11 @@
     {
       "Name": "Deck",
       "Transform": {
-        "posX": -2.40227365,
+        "posX": -2.402274,
         "posY": 1.23126054,
-        "posZ": -0.06995324,
-        "rotX": 1.73445315E-07,
-        "rotY": -0.00424917229,
+        "posZ": -0.0699531659,
+        "rotX": -3.945949E-06,
+        "rotY": -0.004249405,
         "rotZ": 180.0,
         "scaleX": 0.901293039,
         "scaleY": 1.0,
@@ -2504,7 +2504,7 @@
       "Name": "Quarter",
       "Transform": {
         "posX": -4.77790642,
-        "posY": 0.960858464,
+        "posY": 0.9608585,
         "posZ": 4.017124,
         "rotX": 3.6288362E-05,
         "rotY": 89.9999847,
@@ -2787,11 +2787,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -6.852655,
-        "posY": 2.3562398,
+        "posY": 2.35623717,
         "posZ": -16.41014,
-        "rotX": 2.16601,
+        "rotX": 2.16600847,
         "rotY": 225.046127,
-        "rotZ": -0.00106739264,
+        "rotZ": -0.00106659171,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2801,8 +2801,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999963,
-        "b": 0.09399962
+        "g": 0.0999996,
+        "b": 0.09399957
       },
       "Locked": true,
       "Grid": true,
@@ -2828,11 +2828,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -16.4373569,
-        "posY": 2.35668826,
+        "posY": 2.35668516,
         "posZ": -6.37943363,
-        "rotX": 0.00589410635,
+        "rotX": 0.00589416362,
         "rotY": 359.9325,
-        "rotZ": 2.161691,
+        "rotZ": 2.16169,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2842,8 +2842,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.3919996,
-        "b": 0.112999611
+        "g": 0.391999573,
+        "b": 0.112999581
       },
       "Locked": true,
       "Grid": true,
@@ -2869,11 +2869,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -15.776948,
-        "posY": 2.36426544,
+        "posY": 2.36426258,
         "posZ": 7.184732,
-        "rotX": 1.43968189,
-        "rotY": 0.0118697388,
-        "rotZ": 1.43143368,
+        "rotX": 1.439681,
+        "rotY": 0.0118697677,
+        "rotZ": 1.4314357,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2884,7 +2884,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999633
+        "b": 0.1719996
       },
       "Locked": true,
       "Grid": true,
@@ -2910,11 +2910,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -6.74225664,
-        "posY": 2.35545158,
+        "posY": 2.35544944,
         "posZ": 16.3821449,
         "rotX": 358.474182,
-        "rotY": 134.985764,
-        "rotZ": 1.53070676,
+        "rotY": 134.985733,
+        "rotZ": 1.53070652,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2923,9 +2923,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.191999644,
+        "r": 0.191999614,
         "g": 0.701,
-        "b": 0.167999625
+        "b": 0.1679996
       },
       "Locked": true,
       "Grid": true,
@@ -2951,9 +2951,9 @@
       "Name": "Bag",
       "Transform": {
         "posX": 7.8584733,
-        "posY": 2.335749,
+        "posY": 2.33575153,
         "posZ": 16.08357,
-        "rotX": 1.524557,
+        "rotX": 1.52455759,
         "rotY": 359.9806,
         "rotZ": 358.4698,
         "scaleX": 1.0,
@@ -2964,7 +2964,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999636,
+        "r": 0.117999606,
         "g": 0.53,
         "b": 1.0
       },
@@ -2992,11 +2992,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": 16.3393574,
-        "posY": 2.3594048,
+        "posY": 2.359399,
         "posZ": 6.857495,
         "rotX": 357.841431,
-        "rotY": 270.04657,
-        "rotZ": 0.00110300432,
+        "rotY": 270.0465,
+        "rotZ": 0.00110225682,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3006,7 +3006,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999635,
+        "g": 0.124999605,
         "b": 0.941
       },
       "Locked": true,
@@ -3033,11 +3033,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": 15.87338,
-        "posY": 2.38099551,
+        "posY": 2.3809948,
         "posZ": -6.351567,
-        "rotX": 2.16559649,
-        "rotY": 134.946335,
-        "rotZ": -0.004152893,
+        "rotX": 2.165596,
+        "rotY": 134.94635,
+        "rotZ": -0.00415326655,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3047,7 +3047,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.438999623,
+        "g": 0.4389996,
         "b": 0.807
       },
       "Locked": true,
@@ -3076,7 +3076,7 @@
         "posX": 6.59441328,
         "posY": 2.363852,
         "posZ": -16.2286129,
-        "rotX": 1.6857121,
+        "rotX": 1.68571246,
         "rotY": 135.002655,
         "rotZ": 358.855438,
         "scaleX": 1.0,
@@ -3115,10 +3115,10 @@
       "Name": "Die_6",
       "Transform": {
         "posX": -3.36417723,
-        "posY": 1.29019952,
-        "posZ": -3.56863,
+        "posY": 1.29019964,
+        "posZ": -3.56863022,
         "rotX": 270.0,
-        "rotY": 277.704926,
+        "rotY": 277.7049,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -3203,12 +3203,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -0.085431844,
-        "posY": 1.07525134,
-        "posZ": -7.231682,
-        "rotX": 1.80405423E-05,
-        "rotY": 1.30940509,
-        "rotZ": 3.644812E-05,
+        "posX": 0.7677763,
+        "posY": 1.0752511,
+        "posZ": -6.90570259,
+        "rotX": -1.60031959E-05,
+        "rotY": -0.00297813886,
+        "rotZ": -4.52693848E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3648,7 +3648,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "0 pings",
+        "Text": " ",
         "colorstate": {
           "r": 1.0,
           "g": 1.0,
@@ -3664,12 +3664,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -0.4418241,
-        "posY": 1.07525074,
-        "posZ": -8.14346,
-        "rotX": 5.09006859E-05,
-        "rotY": 1.38778377,
-        "rotZ": 9.823267E-06,
+        "posX": -0.441835731,
+        "posY": 1.07524836,
+        "posZ": -8.143407,
+        "rotX": 0.008249843,
+        "rotY": 1.38594973,
+        "rotZ": -8.405857E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3702,12 +3702,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -0.839487731,
-        "posY": 1.249867,
-        "posZ": -8.747984,
-        "rotX": 336.8714,
-        "rotY": 0.0348283,
-        "rotZ": 0.517216742,
+        "posX": -0.8394725,
+        "posY": 1.24989665,
+        "posZ": -8.7478,
+        "rotX": 336.9116,
+        "rotY": 0.03563415,
+        "rotZ": 0.513181865,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3740,12 +3740,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 1.48680878,
-        "posY": 1.07525146,
+        "posX": 1.48680973,
+        "posY": 1.07525086,
         "posZ": -9.027623,
-        "rotX": 6.20669962E-05,
-        "rotY": 359.968231,
-        "rotZ": -6.503173E-05,
+        "rotX": 2.26637421E-05,
+        "rotY": 359.9682,
+        "rotZ": -2.05587767E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3778,12 +3778,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 1.7438823,
+        "posX": 1.74388206,
         "posY": 1.07525086,
         "posZ": -8.106117,
-        "rotX": 2.24287269E-05,
+        "rotX": 8.753128E-06,
         "rotY": 359.987457,
-        "rotZ": -2.02047286E-05,
+        "rotZ": -2.49498771E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3816,12 +3816,50 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 1.82847953,
-        "posY": 1.07525158,
-        "posZ": 12.032506,
-        "rotX": 2.846541E-05,
-        "rotY": -0.0006163259,
-        "rotZ": 6.120034E-05,
+        "posX": 1.82847989,
+        "posY": 1.07525194,
+        "posZ": 12.032505,
+        "rotX": 1.94858785E-06,
+        "rotY": -0.0005505177,
+        "rotZ": 1.55678663E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "chip",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.191999555,
+        "g": 0.701,
+        "b": 0.167999536
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "26fdc7"
+    },
+    {
+      "Name": "backgammon_piece_white",
+      "Transform": {
+        "posX": 0.9130799,
+        "posY": 1.07525122,
+        "posZ": 12.0292168,
+        "rotX": -3.34049059E-06,
+        "rotY": -0.000278343767,
+        "rotZ": -1.24265114E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3849,55 +3887,17 @@
       "LuaScript": "",
       "LuaScriptState": "",
       "XmlUI": "",
-      "GUID": "26fdc7"
-    },
-    {
-      "Name": "backgammon_piece_white",
-      "Transform": {
-        "posX": 0.9130798,
-        "posY": 1.07525122,
-        "posZ": 12.0292168,
-        "rotX": 3.58561761E-06,
-        "rotY": -0.000239371526,
-        "rotZ": -2.414754E-06,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "chip",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.191999614,
-        "g": 0.701,
-        "b": 0.1679996
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": true,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
       "GUID": "b627cd"
     },
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -0.7279104,
+        "posX": -0.727910042,
         "posY": 1.0752511,
-        "posZ": 11.75282,
-        "rotX": 6.874151E-07,
-        "rotY": 0.0010820498,
-        "rotZ": 6.046092E-07,
+        "posZ": 11.752821,
+        "rotX": 2.57024953E-06,
+        "rotY": 0.00106802525,
+        "rotZ": -5.03747469E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3906,9 +3906,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.191999614,
+        "r": 0.191999584,
         "g": 0.701,
-        "b": 0.1679996
+        "b": 0.167999566
       },
       "Locked": false,
       "Grid": true,
@@ -3930,12 +3930,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -2.7928412,
-        "posY": 1.07525122,
-        "posZ": 11.6767082,
-        "rotX": 2.97443676E-05,
-        "rotY": 3.237362E-07,
-        "rotZ": -3.52550319E-06,
+        "posX": -2.792842,
+        "posY": 1.07525134,
+        "posZ": 11.6767092,
+        "rotX": 2.03924969E-06,
+        "rotY": 2.45979027E-05,
+        "rotZ": 2.29758621E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3944,9 +3944,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.191999614,
+        "r": 0.191999584,
         "g": 0.701,
-        "b": 0.1679996
+        "b": 0.167999566
       },
       "Locked": false,
       "Grid": true,
@@ -3970,7 +3970,7 @@
       "Transform": {
         "posX": -0.161936849,
         "posY": 1.08,
-        "posZ": 9.629174,
+        "posZ": 9.629176,
         "rotX": 90.0,
         "rotY": 179.7301,
         "rotZ": 0.0,
@@ -3999,7 +3999,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "0 pings",
+        "Text": " ",
         "colorstate": {
           "r": 0.192,
           "g": 0.701,
@@ -4046,7 +4046,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "0 pings",
+        "Text": " ",
         "colorstate": {
           "r": 0.905,
           "g": 0.898,
@@ -4062,7 +4062,7 @@
     {
       "Name": "3DText",
       "Transform": {
-        "posX": -9.5535965,
+        "posX": -9.553598,
         "posY": 0.9611357,
         "posZ": -0.00395939546,
         "rotX": 90.0,
@@ -4093,7 +4093,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "0 pings",
+        "Text": " ",
         "colorstate": {
           "r": 0.956,
           "g": 0.392,
@@ -4140,7 +4140,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "0 pings",
+        "Text": " ",
         "colorstate": {
           "r": 0.856,
           "g": 0.1,
@@ -4158,7 +4158,7 @@
       "Transform": {
         "posX": 7.95115042,
         "posY": 1.08,
-        "posZ": -7.565617,
+        "posZ": -7.565618,
         "rotX": 90.0,
         "rotY": 314.9301,
         "rotZ": 0.0,
@@ -4187,7 +4187,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "0 pings",
+        "Text": " ",
         "colorstate": {
           "r": 0.96,
           "g": 0.439,
@@ -4234,7 +4234,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "0 pings",
+        "Text": " ",
         "colorstate": {
           "r": 0.627,
           "g": 0.125,
@@ -4250,9 +4250,9 @@
     {
       "Name": "3DText",
       "Transform": {
-        "posX": 7.311333,
+        "posX": 7.311334,
         "posY": 0.961131334,
-        "posZ": 7.222637,
+        "posZ": 7.222638,
         "rotX": 90.0,
         "rotY": 224.930145,
         "rotZ": 0.0,
@@ -4281,7 +4281,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "1 pings",
+        "Text": " ",
         "colorstate": {
           "r": 0.118,
           "g": 0.53,
@@ -4297,12 +4297,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -2.66918421,
-        "posY": 1.07525122,
-        "posZ": 9.773817,
-        "rotX": -6.96646566E-06,
-        "rotY": -0.000417917967,
-        "rotZ": -2.5151046E-06,
+        "posX": -0.132817,
+        "posY": 1.07525182,
+        "posZ": 8.159834,
+        "rotX": 3.531604E-05,
+        "rotY": -0.000483927754,
+        "rotZ": -4.877699E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4311,9 +4311,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.191999584,
+        "r": 0.191999555,
         "g": 0.701,
-        "b": 0.167999566
+        "b": 0.167999536
       },
       "Locked": false,
       "Grid": true,
@@ -4335,12 +4335,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 6.35684,
-        "posY": 1.07525074,
-        "posZ": -7.73252869,
-        "rotX": 8.024446E-07,
-        "rotY": 0.013271465,
-        "rotZ": -7.668898E-06,
+        "posX": 6.325938,
+        "posY": 1.26376975,
+        "posZ": -7.353968,
+        "rotX": 359.987366,
+        "rotY": 358.982849,
+        "rotZ": 25.956501,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4350,7 +4350,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.4389996,
+        "g": 0.438999563,
         "b": 0.807
       },
       "Locked": false,
@@ -4373,12 +4373,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 7.19224548,
-        "posY": 1.19966888,
-        "posZ": -6.88065434,
-        "rotX": 10.7890348,
-        "rotY": 358.5408,
-        "rotZ": 354.832977,
+        "posX": 7.2179966,
+        "posY": 1.19634044,
+        "posZ": -6.90909529,
+        "rotX": 0.96964395,
+        "rotY": 359.726532,
+        "rotZ": 345.1821,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4388,7 +4388,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.4389996,
+        "g": 0.438999563,
         "b": 0.807
       },
       "Locked": false,
@@ -4411,12 +4411,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 7.86752462,
-        "posY": 1.24046612,
-        "posZ": -6.282985,
-        "rotX": 10.8211641,
-        "rotY": 358.717834,
-        "rotZ": 349.383881,
+        "posX": 7.909122,
+        "posY": 1.22418737,
+        "posZ": -6.33122158,
+        "rotX": 0.209384486,
+        "rotY": 358.213623,
+        "rotZ": 340.4095,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4426,7 +4426,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.4389996,
+        "g": 0.438999563,
         "b": 0.807
       },
       "Locked": false,
@@ -4449,12 +4449,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 8.693902,
-        "posY": 1.27146614,
-        "posZ": -6.141934,
-        "rotX": 10.8004427,
-        "rotY": 358.5231,
-        "rotZ": 345.118134,
+        "posX": 8.710088,
+        "posY": 1.20349526,
+        "posZ": -6.198186,
+        "rotX": 359.9775,
+        "rotY": 357.737427,
+        "rotZ": 342.9983,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4464,7 +4464,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.4389996,
+        "g": 0.438999563,
         "b": 0.807
       },
       "Locked": false,
@@ -4487,12 +4487,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 5.97034931,
-        "posY": 1.07525086,
-        "posZ": -9.379285,
-        "rotX": 3.39751338E-08,
-        "rotY": 359.993164,
-        "rotZ": -7.684704E-06,
+        "posX": 5.97035,
+        "posY": 1.07525074,
+        "posZ": -9.379286,
+        "rotX": 7.783556E-06,
+        "rotY": 359.993134,
+        "rotZ": -7.45346733E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4502,7 +4502,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.4389996,
+        "g": 0.438999563,
         "b": 0.807
       },
       "Locked": false,
@@ -4525,12 +4525,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 9.180205,
-        "posY": 1.075251,
-        "posZ": -1.52576447,
-        "rotX": -1.792967E-05,
-        "rotY": -0.00524481758,
-        "rotZ": 1.93341748E-06,
+        "posX": 9.835635,
+        "posY": 1.0752511,
+        "posZ": -1.98620832,
+        "rotX": 3.60640138E-06,
+        "rotY": -0.00528090354,
+        "rotZ": -5.068072E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4540,7 +4540,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999605,
+        "g": 0.124999575,
         "b": 0.941
       },
       "Locked": false,
@@ -4564,11 +4564,11 @@
       "Name": "backgammon_piece_white",
       "Transform": {
         "posX": 9.218119,
-        "posY": 1.07525122,
-        "posZ": -0.533136666,
-        "rotX": -6.414097E-06,
-        "rotY": -0.00517395372,
-        "rotZ": -2.96710159E-08,
+        "posY": 1.0752511,
+        "posZ": -0.5331366,
+        "rotX": -1.6233048E-06,
+        "rotY": -0.00511836726,
+        "rotZ": 3.19456512E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4578,7 +4578,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999575,
+        "g": 0.124999546,
         "b": 0.941
       },
       "Locked": false,
@@ -4601,12 +4601,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 9.078882,
-        "posY": 1.07525027,
-        "posZ": 0.873635,
-        "rotX": 8.22805E-06,
-        "rotY": -0.00305079273,
-        "rotZ": 0.000135722657,
+        "posX": 9.078648,
+        "posY": 1.07526922,
+        "posZ": 0.8735965,
+        "rotX": 0.0130833788,
+        "rotY": 359.9867,
+        "rotZ": 0.0332087,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4616,7 +4616,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999575,
+        "g": 0.124999546,
         "b": 0.941
       },
       "Locked": false,
@@ -4639,12 +4639,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 9.42158,
-        "posY": 1.0752511,
+        "posX": 9.421581,
+        "posY": 1.07525063,
         "posZ": 2.30818748,
-        "rotX": 9.32081548E-06,
-        "rotY": 359.964264,
-        "rotZ": -1.511643E-05,
+        "rotX": -7.96388449E-08,
+        "rotY": 359.964233,
+        "rotZ": 7.15799524E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4654,7 +4654,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999575,
+        "g": 0.124999546,
         "b": 0.941
       },
       "Locked": false,
@@ -4677,12 +4677,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 10.0084095,
-        "posY": 1.18336689,
-        "posZ": 0.411168456,
-        "rotX": 359.969818,
-        "rotY": 0.009275041,
-        "rotZ": 345.90033,
+        "posX": 10.0075426,
+        "posY": 1.18199885,
+        "posZ": 0.411095262,
+        "rotX": 359.93985,
+        "rotY": 0.0105581088,
+        "rotZ": 346.12796,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4692,7 +4692,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999575,
+        "g": 0.124999546,
         "b": 0.941
       },
       "Locked": false,
@@ -4715,12 +4715,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 10.1157827,
+        "posX": 8.539703,
         "posY": 1.0752511,
-        "posZ": 6.6933794,
-        "rotX": -4.542015E-06,
-        "rotY": 359.9788,
-        "rotZ": -1.62802044E-05,
+        "posZ": 5.454115,
+        "rotX": 7.08461266E-06,
+        "rotY": 359.9787,
+        "rotZ": -3.975706E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4729,7 +4729,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999606,
+        "r": 0.117999576,
         "g": 0.53,
         "b": 1.0
       },
@@ -4753,12 +4753,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -9.87457,
-        "posY": 1.07525074,
-        "posZ": 6.98726845,
-        "rotX": -6.871875E-06,
-        "rotY": 0.00103680114,
-        "rotZ": 1.98451357E-06,
+        "posX": -9.874547,
+        "posY": 1.07525933,
+        "posZ": 6.987256,
+        "rotX": 359.9918,
+        "rotY": 0.0020972928,
+        "rotZ": -0.00418709451,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4769,7 +4769,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.1719996
+        "b": 0.171999574
       },
       "Locked": false,
       "Grid": true,
@@ -4792,11 +4792,11 @@
       "Name": "backgammon_piece_white",
       "Transform": {
         "posX": -8.921568,
-        "posY": 1.0752511,
-        "posZ": 9.215205,
-        "rotX": -6.403453E-07,
-        "rotY": 0.00105504727,
-        "rotZ": -2.98432019E-06,
+        "posY": 1.07525086,
+        "posZ": 9.215206,
+        "rotX": 1.59410388E-06,
+        "rotY": 0.00109250739,
+        "rotZ": 1.73887372E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4807,7 +4807,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999574
+        "b": 0.171999544
       },
       "Locked": false,
       "Grid": true,
@@ -4829,12 +4829,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -9.01811,
-        "posY": 1.19762623,
-        "posZ": 7.771249,
-        "rotX": 0.1328266,
-        "rotY": 1.08153141,
-        "rotZ": 344.021881,
+        "posX": -9.01769,
+        "posY": 1.19755447,
+        "posZ": 7.770895,
+        "rotX": 0.01496748,
+        "rotY": 1.08845925,
+        "rotZ": 343.917877,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4845,7 +4845,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999574
+        "b": 0.171999544
       },
       "Locked": false,
       "Grid": true,
@@ -4867,12 +4867,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -7.81088352,
-        "posY": 1.0752511,
-        "posZ": 8.915808,
-        "rotX": 1.12100008E-06,
-        "rotY": 0.001074153,
-        "rotZ": 2.15289379E-06,
+        "posX": -9.722532,
+        "posY": 1.338575,
+        "posZ": 8.139984,
+        "rotX": 0.00721702864,
+        "rotY": 0.4936133,
+        "rotZ": 39.328,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4883,7 +4883,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999574
+        "b": 0.171999544
       },
       "Locked": false,
       "Grid": true,
@@ -4906,11 +4906,11 @@
       "Name": "backgammon_piece_white",
       "Transform": {
         "posX": -6.35061359,
-        "posY": 1.07525122,
+        "posY": 1.0752511,
         "posZ": 9.297796,
-        "rotX": -3.22017763E-06,
-        "rotY": 0.00102317031,
-        "rotZ": 4.33930927E-06,
+        "rotX": 6.278544E-06,
+        "rotY": 0.001003209,
+        "rotZ": 2.21303617E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4921,7 +4921,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999574
+        "b": 0.171999544
       },
       "Locked": false,
       "Grid": true,
@@ -4944,11 +4944,11 @@
       "Name": "backgammon_piece_white",
       "Transform": {
         "posX": -12.8954763,
-        "posY": 1.07525122,
-        "posZ": -0.265336126,
-        "rotX": -4.86748741E-06,
-        "rotY": -0.00163130567,
-        "rotZ": -1.29726641E-05,
+        "posY": 1.0752511,
+        "posZ": -0.265336,
+        "rotX": 1.4364922E-06,
+        "rotY": -0.00167047558,
+        "rotZ": -6.045675E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4958,8 +4958,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999573,
-        "b": 0.112999581
+        "g": 0.391999543,
+        "b": 0.112999551
       },
       "Locked": false,
       "Grid": true,
@@ -4981,12 +4981,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -11.5291243,
-        "posY": 1.07525146,
-        "posZ": -2.39508581,
-        "rotX": -1.16821429E-05,
-        "rotY": -0.00161436759,
-        "rotZ": -1.4345761E-05,
+        "posX": -11.2283831,
+        "posY": 1.07525134,
+        "posZ": -2.36380339,
+        "rotX": -6.10603547E-06,
+        "rotY": -0.00172136945,
+        "rotZ": 9.063151E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4996,8 +4996,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999543,
-        "b": 0.112999551
+        "g": 0.3919995,
+        "b": 0.112999521
       },
       "Locked": false,
       "Grid": true,
@@ -5020,11 +5020,11 @@
       "Name": "backgammon_piece_white",
       "Transform": {
         "posX": -11.7908926,
-        "posY": 1.07525122,
-        "posZ": -0.8090054,
-        "rotX": 4.976842E-06,
-        "rotY": -0.00178610976,
-        "rotZ": -1.51543327E-06,
+        "posY": 1.0752511,
+        "posZ": -0.809005,
+        "rotX": 5.03446063E-06,
+        "rotY": -0.001961479,
+        "rotZ": -2.31513E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5034,8 +5034,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999543,
-        "b": 0.112999551
+        "g": 0.3919995,
+        "b": 0.112999521
       },
       "Locked": false,
       "Grid": true,
@@ -5058,11 +5058,11 @@
       "Name": "backgammon_piece_white",
       "Transform": {
         "posX": -11.9546108,
-        "posY": 1.07525122,
-        "posZ": 0.945236444,
-        "rotX": 3.67229427E-06,
-        "rotY": -0.00163090439,
-        "rotZ": -4.0389873E-06,
+        "posY": 1.075251,
+        "posZ": 0.9452368,
+        "rotX": 5.705729E-06,
+        "rotY": -0.0017179593,
+        "rotZ": -3.75714512E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5072,8 +5072,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999543,
-        "b": 0.112999551
+        "g": 0.3919995,
+        "b": 0.112999521
       },
       "Locked": false,
       "Grid": true,
@@ -5096,11 +5096,11 @@
       "Name": "backgammon_piece_white",
       "Transform": {
         "posX": -11.61523,
-        "posY": 1.0752511,
-        "posZ": 2.51247478,
-        "rotX": 7.05471848E-06,
-        "rotY": -0.00164430635,
-        "rotZ": -5.15446527E-06,
+        "posY": 1.07525086,
+        "posZ": 2.51247525,
+        "rotX": 1.40508109E-05,
+        "rotY": -0.00173994654,
+        "rotZ": -5.283703E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5110,8 +5110,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999543,
-        "b": 0.112999551
+        "g": 0.3919995,
+        "b": 0.112999521
       },
       "Locked": false,
       "Grid": true,
@@ -5135,10 +5135,10 @@
       "Transform": {
         "posX": 9.116297,
         "posY": 1.07525146,
-        "posZ": 7.998557,
-        "rotX": 6.508021E-06,
-        "rotY": 359.9787,
-        "rotZ": -1.04329047E-05,
+        "posZ": 7.99855661,
+        "rotX": -5.482584E-06,
+        "rotY": 359.97876,
+        "rotZ": -2.80718177E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5147,7 +5147,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999576,
+        "r": 0.117999546,
         "g": 0.53,
         "b": 1.0
       },
@@ -5171,12 +5171,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 7.98297358,
-        "posY": 1.0752517,
-        "posZ": 9.689693,
-        "rotX": -1.32244645E-06,
-        "rotY": 359.978668,
-        "rotZ": -5.80422557E-06,
+        "posX": 6.48645735,
+        "posY": 1.07525158,
+        "posZ": 8.609561,
+        "rotX": -2.98024656E-06,
+        "rotY": 359.978729,
+        "rotZ": -1.66671252E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5185,7 +5185,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999576,
+        "r": 0.117999546,
         "g": 0.53,
         "b": 1.0
       },
@@ -5209,12 +5209,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 7.207193,
+        "posX": 7.207194,
         "posY": 1.0752517,
-        "posZ": 11.03225,
-        "rotX": 3.91490948E-06,
+        "posZ": 11.0322495,
+        "rotX": -1.88328147E-06,
         "rotY": 359.978668,
-        "rotZ": -3.723928E-05,
+        "rotZ": -3.44266919E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5223,7 +5223,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999576,
+        "r": 0.117999546,
         "g": 0.53,
         "b": 1.0
       },
@@ -5247,12 +5247,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 8.211419,
-        "posY": 1.07525194,
+        "posX": 8.21142,
+        "posY": 1.07525182,
         "posZ": 11.0743027,
-        "rotX": -9.617473E-06,
-        "rotY": 359.978729,
-        "rotZ": -2.40451E-06,
+        "rotX": -5.05390244E-06,
+        "rotY": 359.97876,
+        "rotZ": -4.79687969E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5261,7 +5261,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999576,
+        "r": 0.117999546,
         "g": 0.53,
         "b": 1.0
       },
@@ -5288,9 +5288,9 @@
         "posX": -7.190681,
         "posY": 1.07525063,
         "posZ": -9.544936,
-        "rotX": 3.25569772E-06,
+        "rotX": -2.82623319E-06,
         "rotY": 359.9818,
-        "rotZ": 3.94927156E-05,
+        "rotZ": 4.75776942E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5300,8 +5300,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.0999996,
-        "b": 0.09399957
+        "g": 0.09999957,
+        "b": 0.09399954
       },
       "Locked": false,
       "Grid": true,
@@ -5323,12 +5323,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -9.281374,
-        "posY": 1.07525063,
-        "posZ": -8.105843,
-        "rotX": -1.18878634E-05,
-        "rotY": 359.981781,
-        "rotZ": -5.166051E-06,
+        "posX": -9.28137,
+        "posY": 1.07525051,
+        "posZ": -8.105855,
+        "rotX": -3.10303017E-06,
+        "rotY": 359.982422,
+        "rotZ": -1.54390727E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5338,8 +5338,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999957,
-        "b": 0.09399954
+        "g": 0.09999954,
+        "b": 0.09399951
       },
       "Locked": false,
       "Grid": true,
@@ -5361,12 +5361,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -10.2275238,
-        "posY": 1.07525146,
-        "posZ": -6.67021942,
-        "rotX": -2.14994216E-05,
-        "rotY": 359.981873,
-        "rotZ": -3.65725032E-06,
+        "posX": -10.2275248,
+        "posY": 1.07525134,
+        "posZ": -6.67022,
+        "rotX": -2.051089E-05,
+        "rotY": 359.981842,
+        "rotZ": -1.8341223E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5376,8 +5376,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999957,
-        "b": 0.09399954
+        "g": 0.09999954,
+        "b": 0.09399951
       },
       "Locked": false,
       "Grid": true,
@@ -5399,12 +5399,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -8.644366,
-        "posY": 1.07525063,
+        "posX": -8.644367,
+        "posY": 1.07525051,
         "posZ": -9.240034,
-        "rotX": -4.54470273E-06,
-        "rotY": 359.9819,
-        "rotZ": -3.334596E-06,
+        "rotX": -1.02256936E-05,
+        "rotY": 359.981873,
+        "rotZ": -1.825098E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5414,8 +5414,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999957,
-        "b": 0.09399954
+        "g": 0.09999954,
+        "b": 0.09399951
       },
       "Locked": false,
       "Grid": true,
@@ -5437,12 +5437,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -8.620472,
-        "posY": 1.221056,
-        "posZ": -7.377776,
-        "rotX": 18.8155136,
-        "rotY": 358.3494,
-        "rotZ": 359.50415,
+        "posX": -8.886004,
+        "posY": 1.07525086,
+        "posZ": -5.97140074,
+        "rotX": -5.02280636E-05,
+        "rotY": 359.988678,
+        "rotZ": 4.84980919E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5452,8 +5452,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999957,
-        "b": 0.09399954
+        "g": 0.09999954,
+        "b": 0.09399951
       },
       "Locked": false,
       "Grid": true,
@@ -5473,7 +5473,7 @@
       "GUID": "bbf7dc"
     }
   ],
-  "LuaScript": "coin_GUID = '3f8f80'\npot_GUID = '39c189'\n\nwhite_total_GUID = '72d080'\nwhite_bag_GUID = '01573b'\nwhite_ping_GUID = 'cd0305'\n\npink_total_GUID = 'e6db4c'\npink_bag_GUID = '9a3c83'\npink_ping_GUID = '9d0ca3'\n\npurple_total_GUID = 'a09bec'\npurple_bag_GUID = 'ce6096'\npurple_ping_GUID = 'd0d45e'\n\nblue_total_GUID = 'e269b8'\nblue_bag_GUID = '0bc4e1'\nblue_ping_GUID = '53ef73'\n\ngreen_total_GUID = '09d12a'\ngreen_bag_GUID = 'd66c15'\ngreen_ping_GUID = '0d3a5e'\n\nyellow_total_GUID = '4f90ae'\nyellow_bag_GUID = '42ea41'\nyellow_ping_GUID = '8d6829'\n\norange_total_GUID = '5c6a34'\norange_bag_GUID = 'a929e5'\norange_ping_GUID = '054c54'\n\nred_total_GUID = '0e96ac'\nred_bag_GUID = '928439'\nred_ping_GUID = '1d2cd1'\n\n\nfunction onLoad()\n    coin_button = getObjectFromGUID(coin_GUID)\n    pot = getObjectFromGUID(pot_GUID)\n    pot_total_text = {\n        getObjectFromGUID('8e0d31'),\n        getObjectFromGUID('bd6e01'),\n        getObjectFromGUID('0a85cf'),\n        getObjectFromGUID('82117f')\n    }\n    player_assets = {\n        White = {\n            bag = getObjectFromGUID(white_bag_GUID),\n            total = getObjectFromGUID(white_total_GUID),\n            pings = getObjectFromGUID(white_ping_GUID)\n        },\n        Pink = {\n            bag = getObjectFromGUID(pink_bag_GUID),\n            total = getObjectFromGUID(pink_total_GUID),\n            pings = getObjectFromGUID(pink_ping_GUID)\n        },\n        Purple = {\n            bag = getObjectFromGUID(purple_bag_GUID),\n            total = getObjectFromGUID(purple_total_GUID),\n            pings = getObjectFromGUID(purple_ping_GUID)\n        },\n        Blue = {\n            bag = getObjectFromGUID(blue_bag_GUID),\n            total = getObjectFromGUID(blue_total_GUID),\n            pings = getObjectFromGUID(blue_ping_GUID)\n        },\n        Green = {\n            bag = getObjectFromGUID(green_bag_GUID),\n            total = getObjectFromGUID(green_total_GUID),\n            pings = getObjectFromGUID(green_ping_GUID)\n        },\n        Yellow = {\n            bag = getObjectFromGUID(yellow_bag_GUID),\n            total = getObjectFromGUID(yellow_total_GUID),\n            pings = getObjectFromGUID(yellow_ping_GUID)\n        },\n        Orange = {\n            bag = getObjectFromGUID(orange_bag_GUID),\n            total = getObjectFromGUID(orange_total_GUID),\n            pings = getObjectFromGUID(orange_ping_GUID)\n        },\n        Red = {\n            bag = getObjectFromGUID(red_bag_GUID),\n            total = getObjectFromGUID(red_total_GUID),\n            pings = getObjectFromGUID(red_ping_GUID),\n        }\n    }\n\n    coin_button.createButton({\n        function_owner=self,\n        click_function = 'stack',\n        position = {0, 0.1, 0},\n        width = 900,\n        height = 900,\n        label = 'stack',\n        font_size = 250\n    })\nend\n\nfunction onObjectEnterScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\nend\n\nfunction onObjectLeaveScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\nend\n\nfunction onPlayerChangeColor(color)\n    hideUnusedColors()\nend\n\nfunction handleScriptingZoneEvent(zone, obj)\n    if obj.getName() == 'chip' then\n        Wait.time(function() update_pot_totals(obj) end, 0.5)\n    end\nend\n\nfunction onObjectEnterContainer(container, obj)\n    if container.name == 'Bag' then\n        updatePlayerFunds(container, obj)\n    end\nend\n\nfunction onObjectLeaveContainer(container, obj)\n    if container.name == 'Bag' then\n        obj.setColorTint(container.getColorTint())\n        updatePlayerFunds(container, obj)\n    end\nend\n\nfunction format_currency(number_of_chips)\n    return string.format(\"$%.2f\", (number_of_chips * 0.25))\nend\n\nfunction getColor(obj)\n    return obj.getColorTint():toString()\n    -- return string.lower(obj.getColorTint():toString())\nend\n\nfunction update_pot_totals(chip)\n    update_total_text()\n    update_player_ping_text(chip)\nend\n\nfunction update_total_text()\n    -- get the length of the chips in the pot array, convert to currency text\n    text = format_currency(#getPotChips())\n    -- update the pot total text fields \n    for idx, text_label in ipairs(pot_total_text) do\n        text_label.setValue(text)\n    end\nend\n\nfunction update_player_ping_text(trigger_chip)\n    trigger_chip_color = getColor(trigger_chip)\n\n    count = 0\n    for idx, chip in ipairs(getPotChips()) do\n        if getColor(chip) == trigger_chip_color then\n            count = count + 1\n        end\n    end\n    \n    text = string.format('%d pings', count)\n    player_assets[trigger_chip_color].pings.setValue(text)\nend\n\nfunction updatePlayerFunds(bag, obj)\n    -- count the chips in the bag, ignore other objects\n    bag_count = 0\n    for idx, object in ipairs(bag.getObjects()) do\n        if object.name == \"chip\" then\n            bag_count = bag_count + 1\n        end\n    end\n    -- get the total text obj for this bag color and update the value\n    player_assets[getColor(bag)].total.setValue(format_currency(bag_count))\nend\n\n\nfunction getPotChips()\n    chips = {}\n    for idx, object in ipairs(pot.getObjects()) do\n        if object.getName() == 'chip' then\n            table.insert(chips, object)\n        end\n    end\n    return chips\nend\n\nfunction getActivePlayerColors()\n    colors = {}\n    for idx, player in pairs(Player.getPlayers()) do\n        colors[player.color] = 1\n    end\n    return colors\nend\n\nfunction getColorsExceptThisOne(this_color)\n    the_other_colors = {}\n    for color,_ in pairs(player_assets) do\n        if color != this_color then\n            table.insert(the_other_colors, color)\n        end \n    end\n    return the_other_colors\nend\n\nfunction hideUnusedColors()\n    active_colors_kv = getActivePlayerColors()\n    active_color_array = {}\n    for color,_ in pairs(active_colors_kv) do\n        table.insert(active_color_array, color)\n    end\n\n    for color, assets in pairs(player_assets) do\n        if active_colors_kv[color] == nil then\n            assets.total.setValue(' ')\n            assets.pings.setValue(' ')\n        end\n    end\n\n    hideOtherColorsBags()\nend\n\nfunction hideOtherColorsBags()\n    for color, assets in pairs(player_assets) do\n        assets.bag.setInvisibleTo(getColorsExceptThisOne(color))\n    end\nend\n\nfunction stack()\n    buffer = 1.25\n    total = 0\n    stack_num = 0\n    row_num = 0\n    x = -0.5\n    y = 0\n    z = -1\n    for _,o in ipairs(getPotChips()) do\n        total = total + 1\n        stack_num = stack_num + 1\n        y = y + 1\n        slowMove(o,{x,y,z})\n        if stack_num >= 4 then\n            stack_num = 0\n            row_num = row_num + 1\n            y = 0\n            x = x + buffer\n            if row_num >= 5 then\n                row_num = 0\n                x = -0.5\n                z = z + buffer\n            end\n        end\n    end\n    -- hideUnusedColors()\nend\n\nfunction slowMove(object, vector)\n    object.setRotationSmooth({0,0,0}, false, true)\n    Wait.time(function() object.setPositionSmooth(vector, false, true) end, 1.25)\n    -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 4)\n    -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 6)\nend",
+  "LuaScript": "coin_GUID = '3f8f80'\npot_GUID = '39c189'\n\nwhite_total_GUID = '72d080'\nwhite_bag_GUID = '01573b'\nwhite_ping_GUID = 'cd0305'\n\npink_total_GUID = 'e6db4c'\npink_bag_GUID = '9a3c83'\npink_ping_GUID = '9d0ca3'\n\npurple_total_GUID = 'a09bec'\npurple_bag_GUID = 'ce6096'\npurple_ping_GUID = 'd0d45e'\n\nblue_total_GUID = 'e269b8'\nblue_bag_GUID = '0bc4e1'\nblue_ping_GUID = '53ef73'\n\ngreen_total_GUID = '09d12a'\ngreen_bag_GUID = 'd66c15'\ngreen_ping_GUID = '0d3a5e'\n\nyellow_total_GUID = '4f90ae'\nyellow_bag_GUID = '42ea41'\nyellow_ping_GUID = '8d6829'\n\norange_total_GUID = '5c6a34'\norange_bag_GUID = 'a929e5'\norange_ping_GUID = '054c54'\n\nred_total_GUID = '0e96ac'\nred_bag_GUID = '928439'\nred_ping_GUID = '1d2cd1'\n\n\nfunction onLoad()\n    coin_button = getObjectFromGUID(coin_GUID)\n    pot = getObjectFromGUID(pot_GUID)\n    pot_total_text = {\n        getObjectFromGUID('8e0d31'),\n        getObjectFromGUID('bd6e01'),\n        getObjectFromGUID('0a85cf'),\n        getObjectFromGUID('82117f')\n    }\n    player_assets = {\n        White = {\n            bag = getObjectFromGUID(white_bag_GUID),\n            total = getObjectFromGUID(white_total_GUID),\n            pings = getObjectFromGUID(white_ping_GUID)\n        },\n        Pink = {\n            bag = getObjectFromGUID(pink_bag_GUID),\n            total = getObjectFromGUID(pink_total_GUID),\n            pings = getObjectFromGUID(pink_ping_GUID)\n        },\n        Purple = {\n            bag = getObjectFromGUID(purple_bag_GUID),\n            total = getObjectFromGUID(purple_total_GUID),\n            pings = getObjectFromGUID(purple_ping_GUID)\n        },\n        Blue = {\n            bag = getObjectFromGUID(blue_bag_GUID),\n            total = getObjectFromGUID(blue_total_GUID),\n            pings = getObjectFromGUID(blue_ping_GUID)\n        },\n        Green = {\n            bag = getObjectFromGUID(green_bag_GUID),\n            total = getObjectFromGUID(green_total_GUID),\n            pings = getObjectFromGUID(green_ping_GUID)\n        },\n        Yellow = {\n            bag = getObjectFromGUID(yellow_bag_GUID),\n            total = getObjectFromGUID(yellow_total_GUID),\n            pings = getObjectFromGUID(yellow_ping_GUID)\n        },\n        Orange = {\n            bag = getObjectFromGUID(orange_bag_GUID),\n            total = getObjectFromGUID(orange_total_GUID),\n            pings = getObjectFromGUID(orange_ping_GUID)\n        },\n        Red = {\n            bag = getObjectFromGUID(red_bag_GUID),\n            total = getObjectFromGUID(red_total_GUID),\n            pings = getObjectFromGUID(red_ping_GUID),\n        }\n    }\n\n    coin_button.createButton({\n        function_owner=self,\n        click_function = 'stack',\n        position = {0, 0.1, 0},\n        width = 900,\n        height = 900,\n        label = 'stack',\n        font_size = 250\n    })\nend\n\nfunction onObjectEnterScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\nend\n\nfunction onObjectLeaveScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\nend\n\nfunction onPlayerChangeColor(color)\n    hideUnusedColors()\nend\n\nfunction handleScriptingZoneEvent(zone, obj)\n    if obj.getName() == 'chip' then\n        Wait.time(function() update_pot_totals(obj) end, 0.5)\n    end\nend\n\nfunction onObjectEnterContainer(container, obj)\n    if container.name == 'Bag' then\n        updatePlayerFunds(container, obj)\n    end\nend\n\nfunction onObjectLeaveContainer(container, obj)\n    if container.name == 'Bag' then\n        obj.setColorTint(container.getColorTint())\n        updatePlayerFunds(container, obj)\n    end\nend\n\nfunction format_currency(number_of_chips)\n    return string.format(\"$%.2f\", (number_of_chips * 0.25))\nend\n\nfunction getColor(obj)\n    return obj.getColorTint():toString()\n    -- return string.lower(obj.getColorTint():toString())\nend\n\nfunction update_pot_totals(chip)\n    update_total_text()\n    update_player_ping_text(chip)\nend\n\nfunction update_total_text()\n    -- get the length of the chips in the pot array, convert to currency text\n    text = format_currency(#getPotChips())\n    -- update the pot total text fields \n    for idx, text_label in ipairs(pot_total_text) do\n        text_label.setValue(text)\n    end\nend\n\nfunction update_player_ping_text(trigger_chip)\n    trigger_chip_color = getColor(trigger_chip)\n\n    count = 0\n    for idx, chip in ipairs(getPotChips()) do\n        if getColor(chip) == trigger_chip_color then\n            count = count + 1\n        end\n    end\n    \n    text = ' '\n    if count > 0 then\n        text = string.format('%d pings', count)\n    end\n    player_assets[trigger_chip_color].pings.setValue(text)\nend\n\nfunction updatePlayerFunds(bag, obj)\n    -- count the chips in the bag, ignore other objects\n    bag_count = 0\n    for idx, object in ipairs(bag.getObjects()) do\n        if object.name == \"chip\" then\n            bag_count = bag_count + 1\n        end\n    end\n    -- get the total text obj for this bag color and update the value\n    player_assets[getColor(bag)].total.setValue(format_currency(bag_count))\nend\n\n\nfunction getPotChips()\n    chips = {}\n    for idx, object in ipairs(pot.getObjects()) do\n        if object.getName() == 'chip' then\n            table.insert(chips, object)\n        end\n    end\n    return chips\nend\n\nfunction getActivePlayerColors()\n    colors = {}\n    for idx, player in pairs(Player.getPlayers()) do\n        colors[player.color] = 1\n    end\n    return colors\nend\n\nfunction getColorsExceptThisOne(this_color)\n    the_other_colors = {}\n    for color,_ in pairs(player_assets) do\n        if color != this_color then\n            table.insert(the_other_colors, color)\n        end \n    end\n    return the_other_colors\nend\n\nfunction hideUnusedColors()\n    active_colors_kv = getActivePlayerColors()\n    active_color_array = {}\n    for color,_ in pairs(active_colors_kv) do\n        table.insert(active_color_array, color)\n    end\n\n    for color, assets in pairs(player_assets) do\n        if active_colors_kv[color] == nil then\n            assets.total.setValue(' ')\n            assets.pings.setValue(' ')\n        end\n    end\n\n    hideOtherColorsBags()\nend\n\nfunction hideOtherColorsBags()\n    for color, assets in pairs(player_assets) do\n        assets.bag.setInvisibleTo(getColorsExceptThisOne(color))\n    end\nend\n\nfunction stack()\n    buffer = 1.25\n    total = 0\n    stack_num = 0\n    row_num = 0\n    x = -0.5\n    y = 0\n    z = -1\n    for _,o in ipairs(getPotChips()) do\n        total = total + 1\n        stack_num = stack_num + 1\n        y = y + 1\n        slowMove(o,{x,y,z})\n        if stack_num >= 4 then\n            stack_num = 0\n            row_num = row_num + 1\n            y = 0\n            x = x + buffer\n            if row_num >= 5 then\n                row_num = 0\n                x = -0.5\n                z = z + buffer\n            end\n        end\n    end\n    -- hideUnusedColors()\nend\n\nfunction slowMove(object, vector)\n    object.setRotationSmooth({0,0,0}, false, true)\n    Wait.time(function() object.setPositionSmooth(vector, false, true) end, 1.25)\n    -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 4)\n    -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 6)\nend",
   "LuaScriptState": "",
   "XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
   "VectorLines": [
