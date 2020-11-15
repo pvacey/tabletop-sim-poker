@@ -117,14 +117,14 @@ end
 
 function onObjectEnterContainer(container, obj)
     if container.name == 'Bag' then
-        updatePlayerFunds(container, obj)
+        updatePlayerFunds(container)
     end
 end
 
 function onObjectLeaveContainer(container, obj)
     if container.name == 'Bag' then
         obj.setColorTint(container.getColorTint())
-        updatePlayerFunds(container, obj)
+        updatePlayerFunds(container)
     end
 end
 
@@ -168,7 +168,7 @@ function update_player_ping_text(trigger_chip)
     player_assets[trigger_chip_color].pings.setValue(text)
 end
 
-function updatePlayerFunds(bag, obj)
+function getBagChipCount(bag)
     -- count the chips in the bag, ignore other objects
     bag_count = 0
     for idx, object in ipairs(bag.getObjects()) do
@@ -176,6 +176,11 @@ function updatePlayerFunds(bag, obj)
             bag_count = bag_count + 1
         end
     end
+    return bag_count
+end
+
+function updatePlayerFunds(bag, obj)
+    bag_count = getBagChipCount(bag)
     -- get the total text obj for this bag color and update the value
     player_assets[getColor(bag)].total.setValue(format_currency(bag_count))
 end
@@ -197,6 +202,16 @@ function getActivePlayerColors()
         colors[player.color] = 1
     end
     return colors
+end
+
+function isActivePlayer(this_color)
+    ret_val = false
+    for player_color,_ in pairs(getActivePlayerColors()) do
+        if player_color == this_color then
+            ret_val = true
+        end
+    end
+    return ret_val
 end
 
 function getColorsExceptThisOne(this_color)
@@ -257,7 +272,7 @@ function stack()
             end
         end
     end
-    -- hideUnusedColors()
+    -- calculateDrift(30.00)
 end
 
 function slowMove(object, vector)
@@ -266,3 +281,23 @@ function slowMove(object, vector)
     -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 4)
     -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 6)
 end
+
+function calculateDrift(starting_amount)
+    print('=====\nplayer standings\n=====')
+    drift = {}
+    for color, assets in pairs(player_assets) do
+        if isActivePlayer(color) then
+            player_funds = getBagChipCount(assets.bag) * 0.25
+            standing = player_funds - 30
+            player_name = Player[color].steam_name
+            drift[player_name] = standing
+            print(string.format('%s = $%.2f',player_name, standing))
+        end
+    end
+    return drift
+end
+
+function payoutPlan(starting_amount)
+    -- sort winners and loser, apply loser debt to winner credit until resolved
+    -- big problem if it all doesn't add up to zero
+end 
