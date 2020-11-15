@@ -1,39 +1,90 @@
 coin_GUID = '3f8f80'
 pot_GUID = '39c189'
 
-white_money_GUID = '72d080'
+white_total_GUID = '72d080'
 white_bag_GUID = '01573b'
-pink_money_GUID = 'e6db4c'
+white_ping_GUID = 'cd0305'
+
+pink_total_GUID = 'e6db4c'
 pink_bag_GUID = '9a3c83'
-purp_money_GUID = 'a09bec'
-purp_bag_GUID = 'ce6096'
-blue_money_GUID = 'e269b8'
+pink_ping_GUID = '9d0ca3'
+
+purple_total_GUID = 'a09bec'
+purple_bag_GUID = 'ce6096'
+purple_ping_GUID = 'd0d45e'
+
+blue_total_GUID = 'e269b8'
 blue_bag_GUID = '0bc4e1'
-green_money_GUID = '09d12a'
+blue_ping_GUID = '53ef73'
+
+green_total_GUID = '09d12a'
 green_bag_GUID = 'd66c15'
-yellow_money_GUID = '4f90ae'
+green_ping_GUID = '0d3a5e'
+
+yellow_total_GUID = '4f90ae'
 yellow_bag_GUID = '42ea41'
-orange_money_GUID = '5c6a34'
+yellow_ping_GUID = '8d6829'
+
+orange_total_GUID = '5c6a34'
 orange_bag_GUID = 'a929e5'
-red_money_GUID = '0e96ac'
+orange_ping_GUID = '054c54'
+
+red_total_GUID = '0e96ac'
 red_bag_GUID = '928439'
+red_ping_GUID = '1d2cd1'
+
 
 function onLoad()
     coin_button = getObjectFromGUID(coin_GUID)
     pot = getObjectFromGUID(pot_GUID)
-    total_text_1 = getObjectFromGUID('8e0d31')
-    total_text_2 = getObjectFromGUID('bd6e01')
-    total_text_3 = getObjectFromGUID('0a85cf')
-    total_text_4 = getObjectFromGUID('82117f')
-
-    white_money = getObjectFromGUID(white_money_GUID)
-    pink_money = getObjectFromGUID(pink_money_GUID)
-    purp_money = getObjectFromGUID(purp_money_GUID)
-    blue_money = getObjectFromGUID(blue_money_GUID)
-    green_money = getObjectFromGUID(green_money_GUID)
-    yellow_money = getObjectFromGUID(yellow_money_GUID)
-    orange_money = getObjectFromGUID(orange_money_GUID)
-    red_money = getObjectFromGUID(red_money_GUID)
+    pot_total_text = {
+        getObjectFromGUID('8e0d31'),
+        getObjectFromGUID('bd6e01'),
+        getObjectFromGUID('0a85cf'),
+        getObjectFromGUID('82117f')
+    }
+    player_assets = {
+        White = {
+            bag = getObjectFromGUID(white_bag_GUID),
+            total = getObjectFromGUID(white_total_GUID),
+            pings = getObjectFromGUID(white_ping_GUID)
+        },
+        Pink = {
+            bag = getObjectFromGUID(pink_bag_GUID),
+            total = getObjectFromGUID(pink_total_GUID),
+            pings = getObjectFromGUID(pink_ping_GUID)
+        },
+        Purple = {
+            bag = getObjectFromGUID(purple_bag_GUID),
+            total = getObjectFromGUID(purple_total_GUID),
+            pings = getObjectFromGUID(purple_ping_GUID)
+        },
+        Blue = {
+            bag = getObjectFromGUID(blue_bag_GUID),
+            total = getObjectFromGUID(blue_total_GUID),
+            pings = getObjectFromGUID(blue_ping_GUID)
+        },
+        Green = {
+            bag = getObjectFromGUID(green_bag_GUID),
+            total = getObjectFromGUID(green_total_GUID),
+            pings = getObjectFromGUID(green_ping_GUID)
+        },
+        Yellow = {
+            bag = getObjectFromGUID(yellow_bag_GUID),
+            total = getObjectFromGUID(yellow_total_GUID),
+            pings = getObjectFromGUID(yellow_ping_GUID)
+        },
+        Orange = {
+            bag = getObjectFromGUID(orange_bag_GUID),
+            total = getObjectFromGUID(orange_total_GUID),
+            pings = getObjectFromGUID(orange_ping_GUID)
+        },
+        Red = {
+            bag = getObjectFromGUID(red_bag_GUID),
+            total = getObjectFromGUID(red_total_GUID),
+            pings = getObjectFromGUID(red_ping_GUID),
+        }
+    }
 
     coin_button.createButton({
         function_owner=self,
@@ -46,90 +97,136 @@ function onLoad()
     })
 end
 
-function update_total_text(object)
-    if object.getName() == 'chip' then
-        money_value =  getPotTotal() * 0.25
-        text = string.format("$%.2f", money_value)
-        total_text_1.setValue(text)
-        total_text_2.setValue(text)
-        total_text_3.setValue(text)
-        total_text_4.setValue(text)
-    end
-end
-
 function onObjectEnterScriptingZone(zone, obj)
-    Wait.time(function() update_total_text(obj) end, 0.5)
+    handleScriptingZoneEvent(zone,obj)
 end
 
 function onObjectLeaveScriptingZone(zone, obj)
-    Wait.time(function() update_total_text(obj) end, 0.5)
+    handleScriptingZoneEvent(zone,obj)
 end
 
-function updatePlayerFunds(bag, obj)
+function onPlayerChangeColor(color)
+    hideUnusedColors()
+end
+
+function handleScriptingZoneEvent(zone, obj)
+    if obj.getName() == 'chip' then
+        Wait.time(function() update_pot_totals(obj) end, 0.5)
+    end
+end
+
+function onObjectEnterContainer(container, obj)
+    if container.name == 'Bag' then
+        updatePlayerFunds(container, obj)
+    end
+end
+
+function onObjectLeaveContainer(container, obj)
+    if container.name == 'Bag' then
+        obj.setColorTint(container.getColorTint())
+        updatePlayerFunds(container, obj)
+    end
+end
+
+function format_currency(number_of_chips)
+    return string.format("$%.2f", (number_of_chips * 0.25))
+end
+
+function getColor(obj)
+    return obj.getColorTint():toString()
+    -- return string.lower(obj.getColorTint():toString())
+end
+
+function update_pot_totals(chip)
+    update_total_text()
+    update_player_ping_text(chip)
+end
+
+function update_total_text()
+    -- get the length of the chips in the pot array, convert to currency text
+    text = format_currency(#getPotChips())
+    -- update the pot total text fields 
+    for idx, text_label in ipairs(pot_total_text) do
+        text_label.setValue(text)
+    end
+end
+
+function update_player_ping_text(trigger_chip)
+    trigger_chip_color = getColor(trigger_chip)
+
     count = 0
-    objects = bag.getObjects()
-    for _,o in ipairs(objects) do
-        if o.name == "chip" then
+    for idx, chip in ipairs(getPotChips()) do
+        if getColor(chip) == trigger_chip_color then
             count = count + 1
         end
     end
-    text = string.format("$%.2f", (count * 0.25))
-    if bag.guid == white_bag_GUID then
-        white_money.setValue(text)
-    end
-    if bag.guid == pink_bag_GUID then
-        pink_money.setValue(text)
-    end
-    if bag.guid == purp_bag_GUID then
-        purp_money.setValue(text)
-    end
-    if bag.guid == blue_bag_GUID then
-        blue_money.setValue(text)
-    end
-    if bag.guid == green_bag_GUID then
-        green_money.setValue(text)
-    end
-    if bag.guid == yellow_bag_GUID then
-        yellow_money.setValue(text)
-    end
-    if bag.guid == orange_bag_GUID then
-        orange_money.setValue(text)
-    end
-    if bag.guid == red_bag_GUID then
-        red_money.setValue(text)
-    end
+    
+    text = string.format('%d pings', count)
+    player_assets[trigger_chip_color].pings.setValue(text)
 end
 
-function onObjectEnterContainer(bag, obj)
-    updatePlayerFunds(bag, obj)
-end
-
-
-function onObjectLeaveContainer(bag, obj)
-    obj.setColorTint(bag.getColorTint())
-    updatePlayerFunds(bag, obj)
-end
-
-function getPotTotal()
-    count = 0
-    player_total = {}
-    chips = getPotChips()
-    for _,o in ipairs(chips) do
-        if o.getName() == 'chip' then
-            count = count +1
+function updatePlayerFunds(bag, obj)
+    -- count the chips in the bag, ignore other objects
+    bag_count = 0
+    for idx, object in ipairs(bag.getObjects()) do
+        if object.name == "chip" then
+            bag_count = bag_count + 1
         end
     end
-    return count
+    -- get the total text obj for this bag color and update the value
+    player_assets[getColor(bag)].total.setValue(format_currency(bag_count))
 end
-l
+
+
 function getPotChips()
     chips = {}
-    for _,o in ipairs(pot.getObjects()) do
-        if o.getName() == 'chip' then
-            table.insert(chips, o)
+    for idx, object in ipairs(pot.getObjects()) do
+        if object.getName() == 'chip' then
+            table.insert(chips, object)
         end
     end
     return chips
+end
+
+function getActivePlayerColors()
+    colors = {}
+    for idx, player in pairs(Player.getPlayers()) do
+        colors[player.color] = 1
+    end
+    return colors
+end
+
+function getColorsExceptThisOne(this_color)
+    the_other_colors = {}
+    for color,_ in pairs(player_assets) do
+        if color != this_color then
+            table.insert(the_other_colors, color)
+        end 
+    end
+    return the_other_colors
+end
+
+function hideUnusedColors()
+    active_colors_kv = getActivePlayerColors()
+    active_color_array = {}
+    for color,_ in pairs(active_colors_kv) do
+        table.insert(active_color_array, color)
+    end
+
+    for color, assets in pairs(player_assets) do
+        if active_colors_kv[color] == nil then
+            assets.total.setValue(' ')
+            assets.pings.setValue(' ')
+        end
+    end
+
+    hideOtherColorsBags()
+end
+
+function hideOtherColorsBags()
+    for color, assets in pairs(player_assets) do
+        assets.bag.setInvisibleTo(getColorsExceptThisOne(color))
+    end
 end
 
 function stack()
@@ -157,6 +254,7 @@ function stack()
             end
         end
     end
+    -- hideUnusedColors()
 end
 
 function slowMove(object, vector)
