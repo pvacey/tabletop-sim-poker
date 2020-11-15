@@ -5,7 +5,7 @@
 
 ## game setup
 - toggle hide assets for inactive players 
-- buy-in button to dish out starting money (or stard fixed starting amount)
+- buy-in button to dish out starting money (or standard starting amount)
 
 ## gameplay
 - split the pot button
