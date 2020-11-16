@@ -82,12 +82,12 @@ function onLoad()
         Red = {
             bag = getObjectFromGUID(red_bag_GUID),
             total = getObjectFromGUID(red_total_GUID),
-            pings = getObjectFromGUID(red_ping_GUID),
+            pings = getObjectFromGUID(red_ping_GUID)
         }
     }
 
     coin_button.createButton({
-        function_owner=self,
+        function_owner = self,
         click_function = 'stack',
         position = {0, 0.1, 0},
         width = 900,
@@ -98,11 +98,11 @@ function onLoad()
 end
 
 function onObjectEnterScriptingZone(zone, obj)
-    handleScriptingZoneEvent(zone,obj)
+    handleScriptingZoneEvent(zone, obj)
 end
 
 function onObjectLeaveScriptingZone(zone, obj)
-    handleScriptingZoneEvent(zone,obj)
+    handleScriptingZoneEvent(zone, obj)
 end
 
 function onPlayerChangeColor(color)
@@ -111,7 +111,9 @@ end
 
 function handleScriptingZoneEvent(zone, obj)
     if obj.getName() == 'chip' then
-        Wait.time(function() update_pot_totals(obj) end, 0.5)
+        Wait.time(function()
+            update_pot_totals(obj)
+        end, 0.5)
     end
 end
 
@@ -160,7 +162,7 @@ function update_player_ping_text(trigger_chip)
             count = count + 1
         end
     end
-    
+
     text = ' '
     if count > 0 then
         text = string.format('%d pings', count)
@@ -185,7 +187,6 @@ function updatePlayerFunds(bag, obj)
     player_assets[getColor(bag)].total.setValue(format_currency(bag_count))
 end
 
-
 function getPotChips()
     chips = {}
     for idx, object in ipairs(pot.getObjects()) do
@@ -206,7 +207,7 @@ end
 
 function isActivePlayer(this_color)
     ret_val = false
-    for player_color,_ in pairs(getActivePlayerColors()) do
+    for player_color, _ in pairs(getActivePlayerColors()) do
         if player_color == this_color then
             ret_val = true
         end
@@ -216,10 +217,10 @@ end
 
 function getColorsExceptThisOne(this_color)
     the_other_colors = {}
-    for color,_ in pairs(player_assets) do
-        if color != this_color then
+    for color, _ in pairs(player_assets) do
+        if color ~= this_color then
             table.insert(the_other_colors, color)
-        end 
+        end
     end
     return the_other_colors
 end
@@ -227,7 +228,7 @@ end
 function hideUnusedColors()
     active_colors_kv = getActivePlayerColors()
     active_color_array = {}
-    for color,_ in pairs(active_colors_kv) do
+    for color, _ in pairs(active_colors_kv) do
         table.insert(active_color_array, color)
     end
 
@@ -255,11 +256,11 @@ function stack()
     x = -0.5
     y = 0
     z = -1
-    for _,o in ipairs(getPotChips()) do
+    for _, o in ipairs(getPotChips()) do
         total = total + 1
         stack_num = stack_num + 1
         y = y + 1
-        slowMove(o,{x,y,z})
+        slowMove(o, {x, y, z})
         if stack_num >= 4 then
             stack_num = 0
             row_num = row_num + 1
@@ -276,8 +277,10 @@ function stack()
 end
 
 function slowMove(object, vector)
-    object.setRotationSmooth({0,0,0}, false, true)
-    Wait.time(function() object.setPositionSmooth(vector, false, true) end, 1.25)
+    object.setRotationSmooth({0, 0, 0}, false, true)
+    Wait.time(function()
+        object.setPositionSmooth(vector, false, true)
+    end, 1.25)
     -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 4)
     -- Wait.time(function() object.setPositionSmooth(vector, false, true) end, 6)
 end
@@ -291,7 +294,7 @@ function calculateDrift(starting_amount)
             standing = player_funds - 30
             player_name = Player[color].steam_name
             drift[player_name] = standing
-            print(string.format('%s = $%.2f',player_name, standing))
+            print(string.format('%s = $%.2f', player_name, standing))
         end
     end
     return drift
@@ -300,4 +303,4 @@ end
 function payoutPlan(starting_amount)
     -- sort winners and loser, apply loser debt to winner credit until resolved
     -- big problem if it all doesn't add up to zero
-end 
+end
