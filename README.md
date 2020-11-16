@@ -22,7 +22,7 @@
   - [ ] Scripted dealing
   - [ ] Scripted passing
 
-#### make it comfy
+### make it comfy
 - [ ] living room 360 degree image
 - [ ] resizing on the table
   - [ ] shrink card size to better fit table
