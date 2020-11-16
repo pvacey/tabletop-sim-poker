@@ -13,6 +13,10 @@
 - [ ] calculate final payment plan
 - [x] ~~theft protection/logging when you pull funds from another player's bag~~
 
+## game modes
+- [ ] baseball - face-up 4's and wildcards on the table are marked different somehow 
+- [ ] pass-the-trash - can be mostly scripted
+
 ### make it comfy
 - [ ] living room 360 degree image
 - [ ] resizing on the table
