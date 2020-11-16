@@ -1,23 +1,26 @@
-# tabletop-sim-poker to-do
+# Tabletop Simulator Poker
 
-## dev workflow
+## todo list
+
+### dev workflow
 - [x] ~~include the entire game save files~~
 
-## game setup
+### game setup
 - [x] ~~toggle hide assets for inactive players~~
 - [ ] buy-in button to dish out starting money (or standard starting amount)
 
-## gameplay
+### gameplay
 - [ ] split the pot button
 - [x] ~~count each person's contributions to the pot (by chip color?)~~
 - [ ] calculate final payment plan
 - [x] ~~theft protection/logging when you pull funds from another player's bag~~
+- [ ] more reliable "return to deck" - standard card deck reset is unreliable
 
-## game modes
-- [ ] baseball - face-up 4's and wildcards on the table are marked different somehow 
+### game modes
+- [ ] baseball - face-up 3/4/9 cards on the table are marked differently somehow 
 - [ ] pass-the-trash - can be mostly scripted
 
-### make it comfy
+#### make it comfy
 - [ ] living room 360 degree image
 - [ ] resizing on the table
   - [ ] shrink card size to better fit table
@@ -25,6 +28,5 @@
   - [ ] reposition money bag
 - [ ] custom assets
   - [ ] our tables
-  - [ ] the blanket
   - [ ] common items
-- [ ] custom card decks for baseball?
+- [ ] custom card decks?
