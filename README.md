@@ -18,7 +18,9 @@
 
 ### game modes
 - [ ] baseball - face-up 3/4/9 cards on the table are marked differently somehow 
-- [ ] pass-the-trash - can be mostly scripted
+- [ ] pass-the-trash
+  - [ ] Scripted dealing
+  - [ ] Scripted passing
 
 #### make it comfy
 - [ ] living room 360 degree image
