@@ -5505,7 +5505,7 @@
       "GridProjection": false,
       "HideWhenFaceDown": false,
       "Hands": false,
-      "LuaScript": "isDealt = false\n\nfunction dealPTT()\n    local deck = getObjectFromGUID(\"16dd0e\")\n    if not isDealt then\n        isDealt = true\n        deck.randomize()\n        deck.deal(7)\n    else \n        local players = getSeatedPlayers()\n        for idx, player in ipairs(players) do\n            local hand = Player[player].getHandObjects()\n            for idx, obj in ipairs(hand) do\n                deck.putObject(obj)\n            end\n        end\n        isDealt = false\n    end\nend",
+      "LuaScript": "isDealt = false\n\nfunction dealPTT()\n    local deck = getObjectFromGUID(\"16dd0e\")\n    if not isDealt then\n        isDealt = true\n        deck.randomize()\n        deck.deal(7)\n    else \n        for idx, object in ipairs(getAllObjects()) do\n            if object.name == \"Card\" then\n                deck.putObject(object)\n            end\n        end\n        isDealt = false\n    end\nend",
       "LuaScriptState": "",
       "XmlUI": "<button\n    onClick=\"dealPTT\"\n    width=\"200\"\n    height=\"200\"\n    position=\"0 0 -10\"\n    fontSize=\"25\">\nPass The Trash\n</button>",
       "GUID": "a1967c",
