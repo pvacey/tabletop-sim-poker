@@ -19,7 +19,7 @@
 ### game modes
 - [ ] baseball - face-up 3/4/9 cards on the table are marked differently somehow 
 - [ ] pass-the-trash
-  - [ ] Scripted dealing
+  - [x] Scripted dealing
   - [ ] Scripted passing
 
 ### make it comfy
