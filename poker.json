@@ -1,7 +1,7 @@
 {
   "SaveName": "fancy_custom_poker",
   "GameMode": "poker",
-  "Date": "11/17/2020 8:16:44 PM",
+  "Date": "11/22/2020 4:23:53 PM",
   "Gravity": 0.5,
   "PlayArea": 0.5,
   "GameType": "",
@@ -14,79 +14,10 @@
   "Rules": "",
   "MusicPlayer": {
     "RepeatSong": false,
-    "PlaylistEntry": 14,
-    "CurrentAudioTitle": "Seedy Tavern - Neverwinter Nights",
-    "CurrentAudioURL": "http://cloud-3.steamusercontent.com/ugc/776230795965069036/23719E4198AE7C4607E657C52E13984C33075A92/",
-    "AudioLibrary": [
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964782822/0F4D812992BEF3B28007AF5914922B8500A7FCFB/",
-        "Item2": "A Tavern on the River - The Witcher 2 - Assassins of Kings"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964784580/47E1CE1DC57A273EE44887D0DD91F956396551EB/",
-        "Item2": "A Watering Hole in the Harbor - The Witcher 2 - Assassins of Kings"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964785562/CD54CFE71735D01C2D74C9DB6575DB0B73EDDD44/",
-        "Item2": "Catch Me if You Can - The Witcher"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964786349/7E617FC0FA666293F7351BC222B06E26A63C4A70/",
-        "Item2": "Cloak and Dagger - The Witcher 3 - Wild Hunt"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964786999/C4284F8750668FC3C55EFDC9C7D545C6033855B0/",
-        "Item2": "Drink Up, There's More! - The Witcher 3 - Wild Hunt"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964787638/664D8AC27A46DC530D25689F3E908D1C24C21BB3/",
-        "Item2": "Evening in the Tavern - The Witcher"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964788036/4E74EE102E1E354744081D5F63F97A701440AA03/",
-        "Item2": "Merchants of Novigrad - The Witcher 3 - Wild Hunt"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964788590/E2CB592F273A63F5357711BFD1C842709C77BAA1/",
-        "Item2": "Tavern at the end of the World - The Witcher"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795964789350/F91085E3CDEA911415C5CD7AEE102303C8CD5A36/",
-        "Item2": "Taverns - Baldur's Gate 2 - Shadows of Amn"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965066756/995E7B2A6CC4AD293EF80A432D641EAFF2FCE3A0/",
-        "Item2": "A Winter's Tale - The Elder Scrolls V - Skyrim"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965067829/D52BDD2905C74AADD67074B60042AC999C540FF5/",
-        "Item2": "Around the Fire - The Elder Scrolls V - Skyrim"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965068507/578950ED96DA9C2F3C2D57F7ED3D37EA30B6E228/",
-        "Item2": "Out of the Cold - The Elder Scrolls V - Skyrim"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965069036/23719E4198AE7C4607E657C52E13984C33075A92/",
-        "Item2": "Seedy Tavern - Neverwinter Nights"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965069631/C9DD987064F30577479F3E2576D923227D03797B/",
-        "Item2": "Shining Serpent Tavern - Neverwinter Nights"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965070855/9CFCBA3C12A87982D8FFA903AF140F692E822171/",
-        "Item2": "The Bannered Mare - The Elder Scrolls V - Skyrim"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965071499/E40893978B42F6590DF4D2D485C39EFFC507A213/",
-        "Item2": "The Fox and the Farmer - Pillars of Eternity"
-      },
-      {
-        "Item1": "http://cloud-3.steamusercontent.com/ugc/776230795965072099/248ED675996D3377A4382988BA28E24DB9152CED/",
-        "Item2": "Wink and Tickle Bordello - Neverwinter Nights"
-      }
-    ]
+    "PlaylistEntry": -1,
+    "CurrentAudioTitle": "john2",
+    "CurrentAudioURL": "https://cdn.discordapp.com/attachments/201091962978304000/780163799188897802/part2.mp3",
+    "AudioLibrary": []
   },
   "Grid": {
     "Type": 0,
@@ -167,9 +98,9 @@
           "rotX": 0.0,
           "rotY": 135.000015,
           "rotZ": 0.0,
-          "scaleX": 9.420205,
+          "scaleX": 9.421414,
           "scaleY": 8.96114,
-          "scaleZ": 5.46958065
+          "scaleZ": 5.47030926
         }
       },
       {
@@ -181,9 +112,9 @@
           "rotX": 0.0,
           "rotY": 270.0,
           "rotZ": 0.0,
-          "scaleX": 9.423789,
+          "scaleX": 9.42567,
           "scaleY": 8.96114,
-          "scaleZ": 5.470789
+          "scaleZ": 5.47164726
         }
       },
       {
@@ -195,9 +126,9 @@
           "rotX": 0.0,
           "rotY": 224.999985,
           "rotZ": 0.0,
-          "scaleX": 9.419987,
+          "scaleX": 9.421189,
           "scaleY": 8.96114,
-          "scaleZ": 5.46934938
+          "scaleZ": 5.47006845
         }
       },
       {
@@ -223,9 +154,9 @@
           "rotX": 0.0,
           "rotY": 179.8,
           "rotZ": 0.0,
-          "scaleX": 9.423019,
+          "scaleX": 9.424836,
           "scaleY": 8.96114,
-          "scaleZ": 5.47418547
+          "scaleZ": 5.475793
         }
       },
       {
@@ -251,9 +182,9 @@
           "rotX": 0.0,
           "rotY": 90.0,
           "rotZ": 0.0,
-          "scaleX": 9.423024,
+          "scaleX": 9.424754,
           "scaleY": 8.96114,
-          "scaleZ": 5.47034264
+          "scaleZ": 5.47131634
         }
       }
     ]
@@ -408,7 +339,7 @@
       "Name": "Quarter",
       "Transform": {
         "posX": -4.77790642,
-        "posY": 0.960859239,
+        "posY": 0.9608598,
         "posZ": 4.017124,
         "rotX": 3.6288362E-05,
         "rotY": 89.9999847,
@@ -691,11 +622,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -6.85265446,
-        "posY": 2.35621953,
+        "posY": 2.35619164,
         "posZ": -16.41014,
-        "rotX": 2.16601849,
+        "rotX": 2.16601753,
         "rotY": 225.0462,
-        "rotZ": -0.00106424221,
+        "rotZ": -0.0010649364,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -705,8 +636,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999924,
-        "b": 0.0939992145
+        "g": 0.09999897,
+        "b": 0.0939989462
       },
       "Locked": true,
       "Grid": true,
@@ -732,11 +663,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -16.4373569,
-        "posY": 2.35664678,
+        "posY": 2.3566227,
         "posZ": -6.37943363,
-        "rotX": 0.00589194428,
+        "rotX": 0.00589324627,
         "rotY": 359.9325,
-        "rotZ": 2.16165972,
+        "rotZ": 2.16164017,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -746,8 +677,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999185,
-        "b": 0.112999208
+        "g": 0.391998917,
+        "b": 0.112998925
       },
       "Locked": true,
       "Grid": true,
@@ -773,11 +704,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -15.776948,
-        "posY": 2.36427236,
+        "posY": 2.3642652,
         "posZ": 7.18473673,
-        "rotX": 1.43967712,
-        "rotY": 0.0118675437,
-        "rotZ": 1.4314481,
+        "rotX": 1.4396745,
+        "rotY": 0.0118670035,
+        "rotZ": 1.43146014,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -788,7 +719,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999246
+        "b": 0.171998978
       },
       "Locked": true,
       "Grid": true,
@@ -827,9 +758,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.191999257,
+        "r": 0.191998988,
         "g": 0.701,
-        "b": 0.167999238
+        "b": 0.16799897
       },
       "Locked": true,
       "Grid": true,
@@ -855,9 +786,9 @@
       "Name": "Bag",
       "Transform": {
         "posX": 7.8584733,
-        "posY": 2.33578086,
+        "posY": 2.33578253,
         "posZ": 16.08357,
-        "rotX": 1.52456522,
+        "rotX": 1.52457535,
         "rotY": 359.9806,
         "rotZ": 358.4698,
         "scaleX": 1.0,
@@ -868,7 +799,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999233,
+        "r": 0.11799895,
         "g": 0.53,
         "b": 1.0
       },
@@ -910,7 +841,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999233,
+        "g": 0.124998949,
         "b": 0.941
       },
       "Locked": true,
@@ -937,11 +868,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": 15.8733778,
-        "posY": 2.38098,
+        "posY": 2.3809762,
         "posZ": -6.351567,
-        "rotX": 2.16560173,
-        "rotY": 134.946335,
-        "rotZ": -0.00415444141,
+        "rotX": 2.16560555,
+        "rotY": 134.94635,
+        "rotZ": -0.00415598974,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -951,7 +882,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.438999236,
+        "g": 0.438998938,
         "b": 0.807
       },
       "Locked": true,
@@ -978,10 +909,10 @@
       "Name": "Bag",
       "Transform": {
         "posX": 6.59441233,
-        "posY": 2.363827,
+        "posY": 2.363814,
         "posZ": -16.2286129,
-        "rotX": 1.68572044,
-        "rotY": 135.00267,
+        "rotX": 1.68572128,
+        "rotY": 135.002655,
         "rotZ": 358.855438,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -1018,11 +949,11 @@
     {
       "Name": "Die_6",
       "Transform": {
-        "posX": -3.221669,
-        "posY": 1.2901994,
-        "posZ": -3.0599885,
+        "posX": -3.2216413,
+        "posY": 1.29019964,
+        "posZ": -3.06090069,
         "rotX": 270.0,
-        "rotY": 358.1674,
+        "rotY": 358.1675,
         "rotZ": 0.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -1138,7 +1069,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": "$0.00",
+        "Text": " ",
         "colorstate": {
           "r": 1.0,
           "g": 1.0,
@@ -1326,7 +1257,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Text": {
-        "Text": " ",
+        "Text": "$0.00",
         "colorstate": {
           "r": 0.192,
           "g": 0.701,
@@ -1530,12 +1461,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -0.714357853,
+        "posX": 9.068529,
         "posY": 1.07525086,
-        "posZ": -7.35093069,
-        "rotX": -6.89158469E-07,
-        "rotY": 0.006433152,
-        "rotZ": -1.12637827E-05,
+        "posZ": -8.056708,
+        "rotX": -1.16501433E-05,
+        "rotY": 359.990173,
+        "rotZ": 1.41086574E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1544,9 +1475,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
+        "r": 0.96,
+        "g": 0.438999981,
+        "b": 0.807
       },
       "Locked": false,
       "Grid": true,
@@ -1568,12 +1499,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -1.38325644,
-        "posY": 1.07525122,
-        "posZ": -8.898341,
-        "rotX": 3.940995E-05,
-        "rotY": 0.147634849,
-        "rotZ": -7.2470466E-05,
+        "posX": 0.266052127,
+        "posY": 1.075251,
+        "posZ": -9.335007,
+        "rotX": 2.65045855E-05,
+        "rotY": 359.967529,
+        "rotZ": -2.86338854E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1602,158 +1533,6 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "GUID": "f2231d"
-    },
-    {
-      "Name": "backgammon_piece_white",
-      "Transform": {
-        "posX": 2.80180144,
-        "posY": 1.07525194,
-        "posZ": 7.32869434,
-        "rotX": -1.91957815E-06,
-        "rotY": -3.92211041E-05,
-        "rotZ": -4.60240062E-06,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "chip",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.1919992,
-        "g": 0.701,
-        "b": 0.167999178
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": true,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "GUID": "26fdc7"
-    },
-    {
-      "Name": "backgammon_piece_white",
-      "Transform": {
-        "posX": 0.0656288639,
-        "posY": 1.07525182,
-        "posZ": 8.016932,
-        "rotX": 4.39776659E-06,
-        "rotY": 180.000015,
-        "rotZ": -7.324458E-06,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "chip",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.191999227,
-        "g": 0.701,
-        "b": 0.167999208
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": true,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "GUID": "b627cd"
-    },
-    {
-      "Name": "backgammon_piece_white",
-      "Transform": {
-        "posX": -1.17385554,
-        "posY": 1.07525218,
-        "posZ": 8.135916,
-        "rotX": 6.4662825E-05,
-        "rotY": 4.183509E-06,
-        "rotZ": 180.0,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "chip",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.191999227,
-        "g": 0.701,
-        "b": 0.167999208
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": true,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "GUID": "16723a"
-    },
-    {
-      "Name": "backgammon_piece_white",
-      "Transform": {
-        "posX": 1.46901727,
-        "posY": 1.07525146,
-        "posZ": 7.832361,
-        "rotX": 2.95482932E-05,
-        "rotY": -1.92341849E-05,
-        "rotZ": -2.9875906E-05,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "chip",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.191999227,
-        "g": 0.701,
-        "b": 0.167999208
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": true,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "GUID": "aab3d0"
     },
     {
       "Name": "3DText",
@@ -2087,12 +1866,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -0.10145662,
-        "posY": 1.07525229,
-        "posZ": 8.942513,
-        "rotX": 8.336325E-05,
-        "rotY": -3.82292674E-05,
-        "rotZ": 180.0,
+        "posX": -0.985403955,
+        "posY": 1.30539179,
+        "posZ": -9.330404,
+        "rotX": 0.0387457125,
+        "rotY": 0.05275974,
+        "rotZ": 0.00210680533,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2101,47 +1880,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.1919992,
-        "g": 0.701,
-        "b": 0.167999178
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": true,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "GUID": "07a061"
-    },
-    {
-      "Name": "backgammon_piece_white",
-      "Transform": {
-        "posX": 5.98227072,
-        "posY": 1.07525146,
-        "posZ": -6.123426,
-        "rotX": 3.63928557E-05,
-        "rotY": 0.02483798,
-        "rotZ": -4.74854241E-05,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "chip",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.96,
-        "g": 0.4389992,
-        "b": 0.807
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
       },
       "Locked": false,
       "Grid": true,
@@ -2163,12 +1904,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 7.419079,
-        "posY": 1.0752511,
-        "posZ": -5.36287165,
-        "rotX": 4.141343E-07,
-        "rotY": 358.686676,
-        "rotZ": 2.4086205E-06,
+        "posX": 7.82113075,
+        "posY": 1.30534422,
+        "posZ": -8.054281,
+        "rotX": 0.0389377959,
+        "rotY": 0.0170412082,
+        "rotZ": 359.969879,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2178,7 +1919,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.4389992,
+        "g": 0.438999981,
         "b": 0.807
       },
       "Locked": false,
@@ -2201,12 +1942,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 4.22972965,
-        "posY": 1.075251,
-        "posZ": -7.04451466,
-        "rotX": -3.94351518E-05,
-        "rotY": 359.9569,
-        "rotZ": 2.23095026E-06,
+        "posX": -0.986114442,
+        "posY": 1.53564262,
+        "posZ": -9.329603,
+        "rotX": 0.06918602,
+        "rotY": 359.990173,
+        "rotZ": 0.008474953,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2215,9 +1956,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.96,
-        "g": 0.4389992,
-        "b": 0.807
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
       },
       "Locked": false,
       "Grid": true,
@@ -2239,12 +1980,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 5.40362,
-        "posY": 1.07525086,
-        "posZ": -8.269845,
-        "rotX": -1.68439317E-06,
-        "rotY": 0.0226445757,
-        "rotZ": -1.9622214E-06,
+        "posX": -0.9841648,
+        "posY": 1.07518983,
+        "posZ": -9.335279,
+        "rotX": 0.000746186066,
+        "rotY": 359.993561,
+        "rotZ": 359.991852,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2253,9 +1994,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.96,
-        "g": 0.4389992,
-        "b": 0.807
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
       },
       "Locked": false,
       "Grid": true,
@@ -2277,12 +2018,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 6.746734,
-        "posY": 1.07525074,
-        "posZ": -8.570795,
-        "rotX": 2.48980223E-06,
-        "rotY": 0.00121764711,
-        "rotZ": -3.885504E-06,
+        "posX": 7.819688,
+        "posY": 1.07518876,
+        "posZ": -8.054986,
+        "rotX": 0.00242559123,
+        "rotY": 359.968658,
+        "rotZ": 359.989349,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2292,7 +2033,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.96,
-        "g": 0.4389992,
+        "g": 0.438999981,
         "b": 0.807
       },
       "Locked": false,
@@ -2315,12 +2056,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 11.188674,
-        "posY": 1.07525146,
-        "posZ": -0.5107139,
-        "rotX": 5.22018854E-06,
-        "rotY": 2.65752115E-05,
-        "rotZ": 180.0,
+        "posX": 9.177216,
+        "posY": 1.0752511,
+        "posZ": -1.1795752,
+        "rotX": 2.76460069E-05,
+        "rotY": 0.000299190055,
+        "rotZ": -2.27998462E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2330,7 +2071,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.1249992,
+        "g": 0.12499892,
         "b": 0.941
       },
       "Locked": false,
@@ -2353,12 +2094,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 9.865852,
-        "posY": 1.07525134,
-        "posZ": 0.482188672,
-        "rotX": 5.12317229E-07,
-        "rotY": 0.000111364672,
-        "rotZ": 180.0,
+        "posX": 7.976616,
+        "posY": 1.07525086,
+        "posZ": -1.50818515,
+        "rotX": 1.93177711E-05,
+        "rotY": 0.00019056641,
+        "rotZ": 2.03793643E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2368,7 +2109,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999158,
+        "g": 0.124998875,
         "b": 0.941
       },
       "Locked": false,
@@ -2391,12 +2132,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 10.7913046,
-        "posY": 1.07525134,
-        "posZ": 0.765931964,
-        "rotX": 2.0057455E-06,
-        "rotY": -3.61872371E-05,
-        "rotZ": 180.0,
+        "posX": 8.77983952,
+        "posY": 1.07525444,
+        "posZ": 0.0970762,
+        "rotX": 2.50681642E-05,
+        "rotY": 0.000334030046,
+        "rotZ": 0.0005499382,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2406,7 +2147,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999158,
+        "g": 0.124998875,
         "b": 0.941
       },
       "Locked": false,
@@ -2429,12 +2170,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 11.6354122,
-        "posY": 1.07525134,
-        "posZ": 2.366241,
-        "rotX": -6.045451E-06,
-        "rotY": 4.1718642E-05,
-        "rotZ": 180.0,
+        "posX": 9.623954,
+        "posY": 1.07525074,
+        "posZ": 1.69738,
+        "rotX": 6.908765E-06,
+        "rotY": 0.000437203562,
+        "rotZ": -2.73983369E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2444,7 +2185,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999158,
+        "g": 0.124998875,
         "b": 0.941
       },
       "Locked": false,
@@ -2467,12 +2208,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 10.1678267,
-        "posY": 1.0752517,
-        "posZ": -0.481002122,
-        "rotX": 2.3789511E-05,
-        "rotY": 6.41287261E-05,
-        "rotZ": 180.0,
+        "posX": 8.448836,
+        "posY": 1.305646,
+        "posZ": 0.2852753,
+        "rotX": 0.00443997933,
+        "rotY": 359.949677,
+        "rotZ": 0.02236249,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2482,7 +2223,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.627,
-        "g": 0.124999158,
+        "g": 0.124998875,
         "b": 0.941
       },
       "Locked": false,
@@ -2505,12 +2246,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 10.23282,
-        "posY": 1.0752517,
-        "posZ": 5.353449,
-        "rotX": -4.43367E-05,
-        "rotY": 2.587696E-06,
-        "rotZ": 180.000031,
+        "posX": 5.18889427,
+        "posY": 1.07525122,
+        "posZ": 5.94943142,
+        "rotX": 1.48865183E-05,
+        "rotY": 2.91060928E-06,
+        "rotZ": -2.99033582E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2519,7 +2260,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.1179992,
+        "r": 0.11799892,
         "g": 0.53,
         "b": 1.0
       },
@@ -2543,12 +2284,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -9.8745575,
-        "posY": 1.07525074,
-        "posZ": 6.987281,
-        "rotX": -4.270199E-06,
-        "rotY": 0.0017770417,
-        "rotZ": -5.111944E-06,
+        "posX": -7.734415,
+        "posY": 1.22148764,
+        "posZ": 7.378492,
+        "rotX": 340.592377,
+        "rotY": 359.103363,
+        "rotZ": 0.0004076127,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2559,7 +2300,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999216
+        "b": 0.171998948
       },
       "Locked": false,
       "Grid": true,
@@ -2581,12 +2322,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -8.921575,
-        "posY": 1.0752517,
-        "posZ": 9.215213,
-        "rotX": -3.21619564E-06,
-        "rotY": -3.6321926E-06,
-        "rotZ": 180.0,
+        "posX": -5.212938,
+        "posY": 1.07525241,
+        "posZ": 7.01467,
+        "rotX": -0.000290996133,
+        "rotY": 359.9845,
+        "rotZ": -0.000478857633,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2597,7 +2338,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999186
+        "b": 0.171998918
       },
       "Locked": false,
       "Grid": true,
@@ -2619,11 +2360,11 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -7.46898937,
+        "posX": -7.469,
         "posY": 1.07525146,
-        "posZ": 5.272659,
-        "rotX": 1.087236E-06,
-        "rotY": 4.19447242E-05,
+        "posZ": 5.27266169,
+        "rotX": -2.19910953E-06,
+        "rotY": 8.957054E-05,
         "rotZ": 180.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -2635,7 +2376,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999186
+        "b": 0.171998918
       },
       "Locked": false,
       "Grid": true,
@@ -2657,12 +2398,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -9.540127,
-        "posY": 1.07525158,
-        "posZ": 8.138432,
-        "rotX": -4.31451053E-06,
-        "rotY": 2.10208327E-07,
-        "rotZ": 180.0,
+        "posX": -5.854142,
+        "posY": 1.241441,
+        "posZ": 6.432726,
+        "rotX": 359.134125,
+        "rotY": 2.01390767,
+        "rotZ": 21.4527531,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2673,7 +2414,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999186
+        "b": 0.171998918
       },
       "Locked": false,
       "Grid": true,
@@ -2695,12 +2436,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -5.268227,
-        "posY": 1.075252,
-        "posZ": 6.015503,
-        "rotX": -3.88349581E-05,
-        "rotY": -6.767736E-05,
-        "rotZ": 180.0,
+        "posX": -8.202429,
+        "posY": 1.075273,
+        "posZ": 8.098108,
+        "rotX": 359.992218,
+        "rotY": 0.27246967,
+        "rotZ": -0.0016823156,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2711,7 +2452,7 @@
       "ColorDiffuse": {
         "r": 0.905,
         "g": 0.898,
-        "b": 0.171999186
+        "b": 0.171998918
       },
       "Locked": false,
       "Grid": true,
@@ -2733,12 +2474,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -12.8954792,
-        "posY": 1.075251,
-        "posZ": -0.2653349,
-        "rotX": 3.58009379E-06,
-        "rotY": -0.00180469279,
-        "rotZ": -6.87154966E-07,
+        "posX": -8.828727,
+        "posY": 1.0753479,
+        "posZ": 0.4971447,
+        "rotX": 0.012041986,
+        "rotY": -0.005553467,
+        "rotZ": 0.007781706,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2748,8 +2489,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999155,
-        "b": 0.112999178
+        "g": 0.3919989,
+        "b": 0.112998895
       },
       "Locked": false,
       "Grid": true,
@@ -2771,12 +2512,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -10.7462864,
-        "posY": 1.07525146,
-        "posZ": -1.11708248,
-        "rotX": 3.78040022E-05,
-        "rotY": -0.00192847545,
-        "rotZ": -5.07460754E-06,
+        "posX": -10.9939137,
+        "posY": 1.07525122,
+        "posZ": -1.46052921,
+        "rotX": -7.96149266E-07,
+        "rotY": 358.484955,
+        "rotZ": 1.30591425E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2786,8 +2527,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999125,
-        "b": 0.112999149
+        "g": 0.391998857,
+        "b": 0.112998866
       },
       "Locked": false,
       "Grid": true,
@@ -2809,12 +2550,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -12.6178036,
-        "posY": 1.0752511,
-        "posZ": -1.79755962,
-        "rotX": 3.48551839E-06,
-        "rotY": -0.00197812915,
-        "rotZ": -7.04951049E-07,
+        "posX": -8.550958,
+        "posY": 1.07525265,
+        "posZ": -1.03533137,
+        "rotX": 359.9938,
+        "rotY": 0.004885603,
+        "rotZ": -0.00338267279,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2824,8 +2565,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999125,
-        "b": 0.112999149
+        "g": 0.391998857,
+        "b": 0.112998866
       },
       "Locked": false,
       "Grid": true,
@@ -2847,12 +2588,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -11.9546108,
-        "posY": 1.075251,
-        "posZ": 0.945239663,
-        "rotX": 4.34120966E-06,
-        "rotY": -0.00201882049,
-        "rotZ": -1.21067444E-06,
+        "posX": -9.017424,
+        "posY": 1.27851951,
+        "posZ": -0.413276136,
+        "rotX": 9.96646,
+        "rotY": 0.004199303,
+        "rotZ": 0.455338418,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2862,8 +2603,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999125,
-        "b": 0.112999149
+        "g": 0.391998857,
+        "b": 0.112998866
       },
       "Locked": false,
       "Grid": true,
@@ -2885,12 +2626,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -11.6152344,
-        "posY": 1.07525086,
-        "posZ": 2.512481,
-        "rotX": 3.881054E-06,
-        "rotY": -0.00169083616,
-        "rotZ": -1.39022168E-05,
+        "posX": -8.610645,
+        "posY": 1.22689629,
+        "posZ": 1.19251263,
+        "rotX": 20.1906414,
+        "rotY": 0.144823655,
+        "rotZ": -0.005087419,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2900,8 +2641,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391999125,
-        "b": 0.112999149
+        "g": 0.391998857,
+        "b": 0.112998866
       },
       "Locked": false,
       "Grid": true,
@@ -2923,12 +2664,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 12.3486242,
-        "posY": 1.0752517,
-        "posZ": 5.65108633,
-        "rotX": -4.68258841E-05,
-        "rotY": -5.74783735E-05,
-        "rotZ": 180.000031,
+        "posX": 7.030364,
+        "posY": 1.189677,
+        "posZ": 5.83382654,
+        "rotX": -0.00350872963,
+        "rotY": 358.391571,
+        "rotZ": 345.01355,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2937,7 +2678,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999174,
+        "r": 0.117998891,
         "g": 0.53,
         "b": 1.0
       },
@@ -2961,12 +2702,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 11.2483873,
-        "posY": 1.07525229,
-        "posZ": 8.126788,
-        "rotX": -1.23010368E-05,
-        "rotY": 7.55882E-06,
-        "rotZ": 180.0,
+        "posX": 6.204464,
+        "posY": 1.07525158,
+        "posZ": 8.72277451,
+        "rotX": -7.398897E-07,
+        "rotY": 4.1828036E-05,
+        "rotZ": -2.12904379E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2975,7 +2716,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999174,
+        "r": 0.117998891,
         "g": 0.53,
         "b": 1.0
       },
@@ -2999,12 +2740,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 11.155858,
-        "posY": 1.07525182,
-        "posZ": 6.02070236,
-        "rotX": 1.39595579E-06,
-        "rotY": 2.44728526E-05,
-        "rotZ": 180.000031,
+        "posX": 6.111913,
+        "posY": 1.07524264,
+        "posZ": 6.616672,
+        "rotX": 0.00146536983,
+        "rotY": 0.0006075517,
+        "rotZ": 0.0019770863,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3013,7 +2754,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999174,
+        "r": 0.117998891,
         "g": 0.53,
         "b": 1.0
       },
@@ -3037,12 +2778,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 4.40495,
-        "posY": 1.07525218,
+        "posX": 4.404953,
+        "posY": 1.07525194,
         "posZ": 7.233851,
-        "rotX": -2.88255269E-05,
-        "rotY": -4.01782781E-05,
-        "rotZ": 180.0,
+        "rotX": -9.503062E-07,
+        "rotY": -6.394095E-05,
+        "rotZ": 180.000031,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3051,7 +2792,7 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.117999174,
+        "r": 0.117998891,
         "g": 0.53,
         "b": 1.0
       },
@@ -3075,12 +2816,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -7.19068336,
-        "posY": 1.07525063,
-        "posZ": -9.544937,
-        "rotX": -4.13668158E-06,
-        "rotY": 359.98175,
-        "rotZ": 4.9217193E-05,
+        "posX": -7.32828,
+        "posY": 1.07525122,
+        "posZ": -6.21774435,
+        "rotX": 1.75920889E-06,
+        "rotY": 359.988373,
+        "rotZ": -1.615618E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3090,8 +2831,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999921,
-        "b": 0.0939991847
+        "g": 0.09999894,
+        "b": 0.09399892
       },
       "Locked": false,
       "Grid": true,
@@ -3113,12 +2854,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -9.281381,
-        "posY": 1.07525074,
-        "posZ": -8.105855,
-        "rotX": -8.489396E-06,
-        "rotY": 359.982269,
-        "rotZ": -3.50414325E-06,
+        "posX": -8.33089352,
+        "posY": 1.23459935,
+        "posZ": -4.80960035,
+        "rotX": 0.00146299822,
+        "rotY": 359.986572,
+        "rotZ": 21.4505463,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3128,8 +2869,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999917,
-        "b": 0.0939991549
+        "g": 0.0999989,
+        "b": 0.09399889
       },
       "Locked": false,
       "Grid": true,
@@ -3151,12 +2892,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -6.745975,
-        "posY": 1.81666255,
-        "posZ": -7.717504,
-        "rotX": 1.250896E-08,
-        "rotY": 2.20710361E-09,
-        "rotZ": 359.962463,
+        "posX": -6.032086,
+        "posY": 1.07520413,
+        "posZ": -7.071946,
+        "rotX": 0.002057365,
+        "rotY": 0.826904237,
+        "rotZ": 0.00274063135,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3166,8 +2907,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999917,
-        "b": 0.0939991549
+        "g": 0.0999989,
+        "b": 0.09399889
       },
       "Locked": false,
       "Grid": true,
@@ -3189,12 +2930,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -8.644374,
-        "posY": 1.07525063,
-        "posZ": -9.240038,
-        "rotX": 2.52402277E-08,
-        "rotY": 359.9816,
-        "rotZ": -1.81531493E-06,
+        "posX": -7.670471,
+        "posY": 1.07524133,
+        "posZ": -4.91354465,
+        "rotX": 0.000856852042,
+        "rotY": 0.0100843869,
+        "rotZ": -0.0007059742,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3204,8 +2945,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999917,
-        "b": 0.0939991549
+        "g": 0.0999989,
+        "b": 0.09399889
       },
       "Locked": false,
       "Grid": true,
@@ -3227,12 +2968,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": -8.301905,
-        "posY": 1.07525063,
-        "posZ": -7.598505,
-        "rotX": -1.30010358E-05,
-        "rotY": 359.988831,
-        "rotZ": -4.327947E-06,
+        "posX": -5.982925,
+        "posY": 1.20446932,
+        "posZ": -6.2595644,
+        "rotX": 16.7446842,
+        "rotY": 0.0219432339,
+        "rotZ": 359.785217,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3242,8 +2983,8 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.856,
-        "g": 0.09999917,
-        "b": 0.0939991549
+        "g": 0.0999989,
+        "b": 0.09399889
       },
       "Locked": false,
       "Grid": true,
@@ -3295,9 +3036,9 @@
       "GridProjection": false,
       "HideWhenFaceDown": false,
       "Hands": false,
-      "LuaScript": "isDealt = false\n\nfunction dealPTT()\n    local deck = getObjectFromGUID(\"66f6e5\")\n    if not isDealt then\n        isDealt = true\n        deck.randomize()\n        deck.deal(7)\n    else \n        local players = getSeatedPlayers()\n        for idx, player in ipairs(players) do\n            local hand = Player[player].getHandObjects()\n            for idx, obj in ipairs(hand) do\n                deck.putObject(obj)\n            end\n        end\n        isDealt = false\n    end\nend",
+      "LuaScript": "function dealPTT()\n    local deck = nil\n    for idx, object in ipairs(getAllObjects()) do\n        if object.name ==\"Deck\" then\n            deck = object\n        end\n    end\n    deck.randomize()\n    deck.deal(7)    \nend",
       "LuaScriptState": "",
-      "XmlUI": "<button\n    onClick=\"dealPTT\"\n    width=\"200\"\n    height=\"200\"\n    position=\"0 0 -10\"\n    fontSize=\"25\">\nPass The Trash\n</button>",
+      "XmlUI": "<!-- <button\n    onClick=\"dealPTT\"\n    width=\"200\"\n    height=\"200\"\n    position=\"0 0 -10\"\n    fontSize=\"30\">\ndeal\n</button> -->",
       "GUID": "a1967c",
       "RotationValues": [
         {
@@ -3321,12 +3062,12 @@
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 1.115005,
-        "posY": 1.07525086,
-        "posZ": -9.65385151,
-        "rotX": 5.57220233E-07,
-        "rotY": 359.978577,
-        "rotZ": -1.11913059E-05,
+        "posX": 7.821414,
+        "posY": 1.53553355,
+        "posZ": -8.05378,
+        "rotX": 0.0296991,
+        "rotY": 0.02070533,
+        "rotZ": 359.966736,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3335,9 +3076,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
+        "r": 0.96,
+        "g": 0.438999981,
+        "b": 0.807
       },
       "Locked": false,
       "Grid": true,
@@ -3373,9 +3114,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.400696576,
-        "g": 0.312121749,
-        "b": 0.162651926
+        "r": 0.400696,
+        "g": 0.312121183,
+        "b": 0.16265139
       },
       "Locked": true,
       "Grid": true,
@@ -3398,17 +3139,56 @@
       },
       "LuaScript": "function onLoad()\r\n    self.interactable = false\r\nend",
       "LuaScriptState": "",
+      "XmlUI": "",
       "GUID": "b5fb7e"
     },
     {
       "Name": "backgammon_piece_white",
       "Transform": {
-        "posX": 2.3470397,
-        "posY": 1.07525134,
-        "posZ": -7.66549873,
-        "rotX": 3.521657E-05,
-        "rotY": 6.548255E-05,
-        "rotZ": -5.03351839E-05,
+        "posX": 7.90881872,
+        "posY": 1.7659235,
+        "posZ": -7.933031,
+        "rotX": 0.02971226,
+        "rotY": 0.00671351468,
+        "rotZ": 359.966736,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "chip",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.96,
+        "g": 0.438999981,
+        "b": 0.807
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "4b2236"
+    },
+    {
+      "Name": "backgammon_piece_white",
+      "Transform": {
+        "posX": 0.02193561,
+        "posY": 1.07525074,
+        "posZ": -7.908725,
+        "rotX": 3.581584E-05,
+        "rotY": 359.979034,
+        "rotZ": -4.71977364E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3439,55 +3219,17 @@
       "GUID": "42764f"
     },
     {
-      "Name": "backgammon_piece_white",
-      "Transform": {
-        "posX": 0.693486869,
-        "posY": 1.07525063,
-        "posZ": -8.028746,
-        "rotX": 7.278884E-05,
-        "rotY": -0.0005863883,
-        "rotZ": -1.52795747E-05,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "chip",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "GUID": "4b2236"
-    },
-    {
       "Name": "Deck",
       "Transform": {
-        "posX": -3.592951,
+        "posX": -3.00000024,
         "posY": 1.23126054,
-        "posZ": 0.00632968,
-        "rotX": 2.265988E-06,
-        "rotY": 180.0,
+        "posZ": 1.15357984E-07,
+        "rotX": 6.19608363E-06,
+        "rotY": 179.849564,
         "rotZ": 180.0,
-        "scaleX": 0.901293039,
+        "scaleX": 0.8062451,
         "scaleY": 1.0,
-        "scaleZ": 0.901293039
+        "scaleZ": 0.8062451
       },
       "Nickname": "",
       "Description": "",
@@ -3511,58 +3253,58 @@
       "Hands": false,
       "SidewaysCard": false,
       "DeckIDs": [
-        24,
-        42,
-        12,
-        36,
-        51,
-        9,
-        41,
-        40,
-        25,
-        20,
-        44,
-        16,
-        49,
-        38,
         5,
-        10,
-        33,
-        13,
-        43,
-        4,
-        46,
-        48,
-        31,
-        28,
-        26,
-        35,
-        2,
-        47,
-        6,
-        19,
-        37,
-        18,
-        3,
-        23,
-        32,
-        21,
-        14,
-        15,
-        39,
-        8,
-        22,
-        45,
-        17,
-        0,
-        29,
-        7,
-        11,
+        38,
         34,
+        51,
         27,
+        46,
+        29,
+        9,
         1,
         50,
-        30
+        10,
+        12,
+        25,
+        8,
+        18,
+        13,
+        3,
+        42,
+        14,
+        43,
+        0,
+        31,
+        48,
+        30,
+        17,
+        24,
+        2,
+        20,
+        44,
+        41,
+        16,
+        7,
+        22,
+        11,
+        15,
+        35,
+        37,
+        45,
+        21,
+        32,
+        28,
+        39,
+        6,
+        23,
+        47,
+        33,
+        4,
+        19,
+        26,
+        36,
+        49,
+        40
       ],
       "LuaScript": "",
       "LuaScriptState": "",
@@ -3571,575 +3313,15 @@
         {
           "Name": "Card",
           "Transform": {
-            "posX": -2.17624736,
-            "posY": 1.10617125,
-            "posZ": 3.248242,
-            "rotX": -8.499862E-07,
-            "rotY": 1.27358071E-05,
-            "rotZ": 0.0230792835,
-            "scaleX": 0.901293039,
+            "posX": 2.756358,
+            "posY": 1.14358258,
+            "posZ": -7.459296,
+            "rotX": 359.878937,
+            "rotY": 180.606018,
+            "rotZ": 11.1809349,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 24,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "ae134c"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.298375,
-            "posY": 1.09297,
-            "posZ": 4.21336555,
-            "rotX": 1.92689E-06,
-            "rotY": -2.62370548E-07,
-            "rotZ": 0.781572461,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 42,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "1a0eb2"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 1.03244865,
-            "posY": 1.11850226,
-            "posZ": -12.3291588,
-            "rotX": -0.000693766749,
-            "rotY": 179.967346,
-            "rotZ": 4.650677,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 12,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "0f0c49"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.95056677,
-            "posY": 1.16404414,
-            "posZ": 3.28638172,
-            "rotX": 4.756239E-05,
-            "rotY": 0.000296905724,
-            "rotZ": 0.0341447257,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 36,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "198c38"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.43948078,
-            "posY": 1.11579955,
-            "posZ": 3.51908088,
-            "rotX": -1.61320877E-05,
-            "rotY": 5.172824E-05,
-            "rotZ": 0.0104720276,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 51,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "7e5ee2"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.680961132,
-            "posY": 1.07725966,
-            "posZ": 3.34361029,
-            "rotX": 9.961171E-06,
-            "rotY": -9.256702E-06,
-            "rotZ": 0.014507954,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 9,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "06148f"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -1.63079548,
-            "posY": 1.115528,
-            "posZ": 3.30164576,
-            "rotX": 6.727012E-06,
-            "rotY": 1.94425709E-07,
-            "rotZ": 0.9511869,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 41,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "5f6c77"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 10.3647795,
-            "posY": 1.17733169,
-            "posZ": 2.2750926,
-            "rotX": 4.85079241,
-            "rotY": 0.245259151,
-            "rotZ": 5.19079447,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "wild",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 40,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "ac5d29"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 8.439794,
-            "posY": 0.97360456,
-            "posZ": -1.36324656,
-            "rotX": -1.56829174E-05,
-            "rotY": 359.967926,
-            "rotZ": 1.65481088E-05,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "buy",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 25,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "54186e"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 3.41419435,
-            "posY": 1.139461,
-            "posZ": -1.71339464,
-            "rotX": 6.885477,
-            "rotY": 180.219086,
-            "rotZ": 0.03209131,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "buy",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 20,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "7df4ab"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.44057712,
-            "posY": 1.04842269,
-            "posZ": 3.488566,
-            "rotX": -5.692649E-06,
-            "rotY": 4.477979E-06,
-            "rotZ": 359.9896,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 44,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "0ff04f"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.38990164,
-            "posY": 1.07733393,
-            "posZ": 3.77848983,
-            "rotX": 9.378927E-06,
-            "rotY": -2.240329E-05,
-            "rotZ": 0.006854804,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 16,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "0d8e04"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 6.07113743,
-            "posY": 0.9736046,
-            "posZ": -1.2683965,
-            "rotX": 1.00222735E-06,
-            "rotY": -0.000269102,
-            "rotZ": 7.57596126E-06,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "buy",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 49,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "613d24"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -0.139652282,
-            "posY": 2.19938087,
-            "posZ": 1.17711926,
-            "rotX": 6.980967E-06,
-            "rotY": 180.0,
-            "rotZ": 180.0,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 38,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "0c4a3e"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -1.98925626,
-            "posY": 1.15457928,
-            "posZ": 3.95395923,
-            "rotX": -3.73858747E-05,
-            "rotY": 8.501403E-06,
-            "rotZ": 0.05124439,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
+            "scaleZ": 0.8062451
           },
           "Nickname": "",
           "Description": "",
@@ -4171,15 +3353,375 @@
         {
           "Name": "Card",
           "Transform": {
-            "posX": 5.79270744,
-            "posY": 1.02847767,
-            "posZ": 2.17410684,
-            "rotX": 357.720642,
-            "rotY": 0.000207510166,
-            "rotZ": -0.000113341863,
-            "scaleX": 0.901293039,
+            "posX": -3.1744895,
+            "posY": 3.058073,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 0.901293039
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 38,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0c4a3e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00009179,
+            "posY": 2.49943256,
+            "posZ": 4.79378832E-05,
+            "rotX": 357.0885,
+            "rotY": 180.015778,
+            "rotZ": 180.00235,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 34,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "9a8acf"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00003481,
+            "posY": 2.49763823,
+            "posZ": -6.739686E-05,
+            "rotX": 359.7919,
+            "rotY": 179.999039,
+            "rotZ": 179.998779,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 51,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "7e5ee2"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.50617361,
+            "posY": 3.14140654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "buy",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 27,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "c3ae64"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.99997,
+            "posY": 2.494218,
+            "posZ": -6.824153E-05,
+            "rotX": 359.8031,
+            "rotY": 180.002625,
+            "rotZ": 180.734543,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 46,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "5567ee"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00190163,
+            "posY": 3.30353117,
+            "posZ": 0.00268102437,
+            "rotX": 359.528656,
+            "rotY": 180.037308,
+            "rotZ": 179.90123,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 29,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "3de51f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.72836328,
+            "posY": 2.97473979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "06148f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.16954243,
+            "posY": 3.308073,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 1,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "d932ab"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.99873638,
+            "posY": 2.608037,
+            "posZ": -0.0381386764,
+            "rotX": 8.905778,
+            "rotY": 180.350677,
+            "rotZ": 180.314728,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "wild",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 50,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "86f383"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.167069256,
+            "posY": 3.433073,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
           },
           "Nickname": "wild",
           "Description": "",
@@ -4211,95 +3753,15 @@
         {
           "Name": "Card",
           "Transform": {
-            "posX": -2.13051271,
-            "posY": 1.1831764,
-            "posZ": 3.809003,
-            "rotX": -4.48315541E-06,
-            "rotY": -3.01784585E-05,
-            "rotZ": 0.012761198,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 33,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "03dfac"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.0,
-            "posY": 5.388283,
-            "posZ": 0.0,
+            "posX": 0.167088509,
+            "posY": 3.47473979,
+            "posZ": -18.8021717,
             "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
-            "scaleX": 1.0,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "Hands": true,
-          "CardID": 13,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "ContainedObjects": [],
-          "GUID": "766ff1"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.080933,
-            "posY": 1.14418,
-            "posZ": 3.62589741,
-            "rotX": 2.34579443E-06,
-            "rotY": 4.46024977E-08,
-            "rotZ": 0.371052027,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
+            "scaleZ": 0.8062451
           },
           "Nickname": "",
           "Description": "",
@@ -4321,107 +3783,27 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 43,
+          "CardID": 12,
           "SidewaysCard": false,
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "GUID": "0ca288"
+          "GUID": "0f0c49"
         },
         {
           "Name": "Card",
           "Transform": {
-            "posX": -3.15628862,
-            "posY": 1.17349958,
-            "posZ": 0.05931415,
-            "rotX": 1.74806439E-06,
-            "rotY": -3.98277871E-06,
-            "rotZ": 8.399653E-06,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 4,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "766ff1"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.0,
-            "posY": 5.388283,
-            "posZ": 0.0,
+            "posX": 3.27360225,
+            "posY": 3.07473969,
+            "posZ": 18.8505955,
             "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
-            "scaleX": 1.0,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 1.0
+            "scaleZ": 0.8062451
           },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "Hands": true,
-          "CardID": 46,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "ContainedObjects": [],
-          "GUID": "766ff1"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.02752066,
-            "posY": 1.17361474,
-            "posZ": 3.95396376,
-            "rotX": -6.183673E-06,
-            "rotY": -1.31838406E-05,
-            "rotZ": 0.0068471604,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
+          "Nickname": "buy",
           "Description": "",
           "GMNotes": "",
           "ColorDiffuse": {
@@ -4441,705 +3823,25 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 48,
+          "CardID": 25,
           "SidewaysCard": false,
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "GUID": "bcb093"
+          "GUID": "54186e"
         },
         {
           "Name": "Card",
           "Transform": {
-            "posX": 0.0,
-            "posY": 5.388283,
-            "posZ": 0.0,
+            "posX": 1.72264552,
+            "posY": 2.97473979,
+            "posZ": 18.8451824,
             "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
-            "scaleX": 1.0,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "Hands": true,
-          "CardID": 31,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "ContainedObjects": [],
-          "GUID": "766ff1"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 6.791076,
-            "posY": 0.973604739,
-            "posZ": 7.69848776,
-            "rotX": 2.69499969E-06,
-            "rotY": 359.989471,
-            "rotZ": -1.77223626E-06,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "wild",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 28,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "1ec1a8"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.756093,
-            "posY": 1.5113852,
-            "posZ": 0.3304208,
-            "rotX": -1.52657212E-05,
-            "rotY": 179.962387,
-            "rotZ": 180.0,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 26,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "8fb520"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.15726948,
-            "posY": 1.02360094,
-            "posZ": 3.30080867,
-            "rotX": -0.000180815623,
-            "rotY": -1.64623509E-06,
-            "rotZ": -0.000156670445,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 35,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "d44987"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.38968468,
-            "posY": 1.21245635,
-            "posZ": 3.72892332,
-            "rotX": 0.000145206184,
-            "rotY": -0.00094206474,
-            "rotZ": 0.0641793162,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 2,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "d530ee"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -0.139652282,
-            "posY": 2.39938068,
-            "posZ": -0.6210626,
-            "rotX": 9.20440129E-07,
-            "rotY": 180.0,
-            "rotZ": 180.0,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 47,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "1f18d6"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.36696768,
-            "posY": 1.20247,
-            "posZ": 3.78956318,
-            "rotX": 2.66573043E-05,
-            "rotY": -0.000136769551,
-            "rotZ": 0.009085428,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 6,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "73739e"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.631608844,
-            "posY": 1.00479937,
-            "posZ": 3.485036,
-            "rotX": -8.645569E-06,
-            "rotY": -0.000251427,
-            "rotZ": -1.59320189E-05,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 19,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "28a103"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.22970748,
-            "posY": 1.08843875,
-            "posZ": 3.78230119,
-            "rotX": 6.930796E-06,
-            "rotY": 1.93692827E-07,
-            "rotZ": 1.05010259,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 37,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "22f6e4"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 4.686612,
-            "posY": 0.97360456,
-            "posZ": 0.76908654,
-            "rotX": 1.7561191E-06,
-            "rotY": 0.159033045,
-            "rotZ": 180.0,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 18,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "00ccbb"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.34440231,
-            "posY": 1.22176147,
-            "posZ": 3.811329,
-            "rotX": -0.000263096939,
-            "rotY": 0.00202996517,
-            "rotZ": 0.00647295732,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 3,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "9af9a4"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 4.0006814,
-            "posY": 1.19959307,
-            "posZ": 7.816131,
-            "rotX": 8.7705,
-            "rotY": 359.94516,
-            "rotZ": 359.055725,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "wild",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 23,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "ae6256"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.35925031,
-            "posY": 1.13523138,
-            "posZ": 3.18337774,
-            "rotX": -6.409678E-05,
-            "rotY": 0.000294438069,
-            "rotZ": 0.04141581,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 32,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "d845c0"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.16020823,
-            "posY": 1.12217772,
-            "posZ": 8.416638,
-            "rotX": -8.846229E-06,
-            "rotY": 0.361455321,
-            "rotZ": 8.844353,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "wild",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 21,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "facf96"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.593166769,
-            "posY": 1.057998,
-            "posZ": 3.21417022,
-            "rotX": -0.000835927262,
-            "rotY": 0.020584397,
-            "rotZ": -0.000895459845,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 14,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "b2b59f"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 3.12110138,
-            "posY": 0.9736054,
-            "posZ": 2.372316,
-            "rotX": 5.62526247E-06,
-            "rotY": 180.976425,
-            "rotZ": -8.437501E-06,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "wild",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 15,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "1fc4e6"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.554609835,
-            "posY": 0.9736054,
-            "posZ": 3.353011,
-            "rotX": -1.06805846E-05,
-            "rotY": -2.52706946E-06,
-            "rotZ": -1.3398093E-05,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "\n",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 39,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "fbe816"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.30333638,
-            "posY": 1.14471245,
-            "posZ": 3.85086918,
-            "rotX": -0.00037081854,
-            "rotY": 0.000143356141,
-            "rotZ": 0.00769710867,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
+            "scaleZ": 0.8062451
           },
           "Nickname": "",
           "Description": "",
@@ -5171,15 +3873,15 @@
         {
           "Name": "Card",
           "Transform": {
-            "posX": 0.0,
-            "posY": 5.388283,
-            "posZ": 0.0,
+            "posX": 2.84035087,
+            "posY": 3.808073,
+            "posZ": -18.8021717,
             "rotX": -5.008956E-06,
             "rotY": 180.0,
             "rotZ": 180.0,
-            "scaleX": 1.0,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 1.0
+            "scaleZ": 0.8062451
           },
           "Nickname": "",
           "Description": "",
@@ -5199,24 +3901,904 @@
           "Sticky": true,
           "Tooltip": true,
           "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "00ccbb"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.73407936,
+            "posY": 3.17473984,
+            "posZ": 18.8331165,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 13,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "766ff1"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.72836339,
+            "posY": 2.97473979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "9af9a4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.627767265,
+            "posY": 3.47473979,
+            "posZ": 18.8369789,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 42,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "1a0eb2"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00001884,
+            "posY": 2.55451679,
+            "posZ": 5.82848625E-05,
+            "rotX": 0.190081611,
+            "rotY": 179.997513,
+            "rotZ": 180.144989,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 14,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "b2b59f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 1.50371945,
+            "posY": 3.64140654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 43,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0ca288"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 2.172035,
+            "posY": 3.72473979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 0,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0e5a2c"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 1.72838259,
+            "posY": 3.17473984,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 31,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "f7840b"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 1.83787715,
+            "posY": 3.683073,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 48,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "bcb093"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.501227,
+            "posY": 3.39140654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 30,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "2e04ba"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 1.16956174,
+            "posY": 3.59973979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 17,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "97a160"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.00571692,
+            "posY": 3.07473969,
+            "posZ": 18.83915,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 24,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "ae134c"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.73407936,
+            "posY": 3.17473984,
+            "posZ": 18.8331165,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "d530ee"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00005317,
+            "posY": 2.501532,
+            "posZ": 2.08513666E-05,
+            "rotX": 359.765259,
+            "rotY": 179.996918,
+            "rotZ": 180.783066,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "buy",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 20,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "7df4ab"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 1.3229177,
+            "posY": 3.27473974,
+            "posZ": 18.8437881,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 44,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0ff04f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.17201567,
+            "posY": 3.183073,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 41,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "5f6c77"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.50864744,
+            "posY": 3.01640654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 16,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "0d8e04"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.0,
+            "posY": 2.496917,
+            "posZ": 0.0,
+            "rotX": 358.1877,
+            "rotY": 180.004074,
+            "rotZ": 180.002716,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "02f546"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.000312,
+            "posY": 2.58865738,
+            "posZ": -0.000157475428,
+            "rotX": 358.891357,
+            "rotY": 179.976715,
+            "rotZ": 180.9507,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
           "Hands": true,
           "CardID": 22,
           "SidewaysCard": false,
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "ContainedObjects": [],
-          "GUID": "766ff1"
+          "GUID": "958833"
         },
         {
           "Name": "Card",
           "Transform": {
-            "posX": 8.286483,
-            "posY": 0.9736045,
-            "posZ": 2.177515,
-            "rotX": 2.82364772E-06,
-            "rotY": 1.0366989E-05,
-            "rotZ": 9.237375E-06,
+            "posX": 3.842825,
+            "posY": 3.933073,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "4e51e4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.999902,
+            "posY": 2.49573421,
+            "posZ": -0.0001256031,
+            "rotX": 0.188461185,
+            "rotY": 179.997131,
+            "rotZ": 178.79657,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "wild",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 15,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "1fc4e6"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.8353847,
+            "posY": 3.34973979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 35,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "d44987"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 0.5012463,
+            "posY": 3.51640654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 37,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "22f6e4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.99965382,
+            "posY": 1.00787568,
+            "posZ": -0.0010175386,
+            "rotX": 359.83844,
+            "rotY": 179.925278,
+            "rotZ": 179.609955,
             "scaleX": 0.901293039,
             "scaleY": 1.0,
             "scaleZ": 0.901293039
@@ -5251,335 +4833,15 @@
         {
           "Name": "Card",
           "Transform": {
-            "posX": -2.27092934,
-            "posY": 1.05081213,
-            "posZ": 3.64554071,
-            "rotX": -0.000180885938,
-            "rotY": -6.02525142E-06,
-            "rotZ": -0.000156535811,
-            "scaleX": 0.901293039,
+            "posX": -0.00571680069,
+            "posY": 3.07473969,
+            "posZ": 18.83915,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 17,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "97a160"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.62254548,
-            "posY": 0.9736056,
-            "posZ": 3.952882,
-            "rotX": -2.48091255E-05,
-            "rotY": 2.227656E-05,
-            "rotZ": 8.63710341E-07,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 0,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "0e5a2c"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.47552729,
-            "posY": 1.09659183,
-            "posZ": 3.51918435,
-            "rotX": 0.0003762625,
-            "rotY": -0.000582580047,
-            "rotZ": 0.00622963766,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 29,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "3de51f"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.563508749,
-            "posY": 1.03870642,
-            "posZ": 3.362522,
-            "rotX": 9.349313E-06,
-            "rotY": -2.055914E-05,
-            "rotZ": -1.59957526E-05,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 7,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "02f546"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.29453444,
-            "posY": 1.23138285,
-            "posZ": 3.66404867,
-            "rotX": 6.207227E-06,
-            "rotY": -3.00406173E-05,
-            "rotZ": 0.006868602,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 11,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "4e51e4"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": -2.30591035,
-            "posY": 1.19299972,
-            "posZ": 3.499995,
-            "rotX": -2.517314E-05,
-            "rotY": 4.62685166E-05,
-            "rotZ": 0.0413712524,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 34,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "9a8acf"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 10.3771181,
-            "posY": 1.3740325,
-            "posZ": -1.25113678,
-            "rotX": 355.0095,
-            "rotY": 359.149719,
-            "rotZ": 16.9651642,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "buy",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 27,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "c3ae64"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.241414875,
-            "posY": 1.06769753,
-            "posZ": 3.464728,
-            "rotX": 9.407954E-05,
-            "rotY": -0.000225677722,
-            "rotZ": 0.007663896,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": true,
-          "Hands": true,
-          "CardID": 1,
-          "SidewaysCard": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": "",
-          "GUID": "d932ab"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 0.3214466,
-            "posY": 1.34506679,
-            "posZ": 7.9921236,
-            "rotX": 348.2155,
-            "rotY": 0.0256447028,
-            "rotZ": 0.08243007,
-            "scaleX": 0.901293039,
-            "scaleY": 1.0,
-            "scaleZ": 0.901293039
+            "scaleZ": 0.8062451
           },
           "Nickname": "wild",
           "Description": "",
@@ -5601,25 +4863,25 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 50,
+          "CardID": 21,
           "SidewaysCard": false,
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "GUID": "86f383"
+          "GUID": "facf96"
         },
         {
           "Name": "Card",
           "Transform": {
-            "posX": 2.77313781,
-            "posY": 1.6547811,
-            "posZ": 0.06740471,
-            "rotX": 1.32452667,
-            "rotY": 179.9952,
-            "rotZ": 359.929016,
-            "scaleX": 0.901293039,
+            "posX": -3.00001073,
+            "posY": 2.500212,
+            "posZ": -2.67592332E-05,
+            "rotX": 359.9416,
+            "rotY": 179.999451,
+            "rotZ": 179.955536,
+            "scaleX": 0.8062451,
             "scaleY": 1.0,
-            "scaleZ": 0.901293039
+            "scaleZ": 0.8062451
           },
           "Nickname": "",
           "Description": "",
@@ -5641,18 +4903,688 @@
           "GridProjection": false,
           "HideWhenFaceDown": true,
           "Hands": true,
-          "CardID": 30,
+          "CardID": 32,
           "SidewaysCard": false,
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "GUID": "2e04ba"
+          "GUID": "d845c0"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00458431,
+            "posY": 2.58849454,
+            "posZ": 0.00455401232,
+            "rotX": 357.9376,
+            "rotY": 180.1262,
+            "rotZ": 178.034943,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "wild",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 28,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "1ec1a8"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.74092674,
+            "posY": 2.97473979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.901293039,
+            "scaleY": 1.0,
+            "scaleZ": 0.901293039
+          },
+          "Nickname": "",
+          "Description": "\n",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 39,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "fbe816"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00045443,
+            "posY": 2.38195157,
+            "posZ": -0.008960275,
+            "rotX": 2.85306549,
+            "rotY": 179.9936,
+            "rotZ": 180.027267,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "73739e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.00034213,
+            "posY": 2.41304183,
+            "posZ": -0.004739766,
+            "rotX": 1.92139924,
+            "rotY": 180.00235,
+            "rotZ": 179.586227,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "wild",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 23,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "ae6256"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.84033155,
+            "posY": 3.09973979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 47,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "1f18d6"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -3.0,
+            "posY": 2.509563,
+            "posZ": -1.70610237E-09,
+            "rotX": 4.836365E-06,
+            "rotY": 180.000015,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 33,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "03dfac"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 9.655952E-06,
+            "posY": 3.07473969,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "132488"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 2.506193,
+            "posY": 3.76640654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 19,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "28a103"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.83785784,
+            "posY": 3.22473979,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 26,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "8fb520"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -2.57845235,
+            "posY": 3.67473984,
+            "posZ": 18.83017,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 36,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "198c38"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.50370014,
+            "posY": 3.26640654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "buy",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 49,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "613d24"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.508667,
+            "posY": 3.89140654,
+            "posZ": -18.8021717,
+            "rotX": -5.008956E-06,
+            "rotY": 180.0,
+            "rotZ": 180.0,
+            "scaleX": 0.8062451,
+            "scaleY": 1.0,
+            "scaleZ": 0.8062451
+          },
+          "Nickname": "wild",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 40,
+          "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "GUID": "ac5d29"
         }
       ],
-      "GUID": "66f6e5"
+      "GUID": "7d62b1"
+    },
+    {
+      "Name": "backgammon_piece_white",
+      "Transform": {
+        "posX": 0.6615687,
+        "posY": 1.0752517,
+        "posZ": 9.04952,
+        "rotX": -7.939958E-06,
+        "rotY": 359.0412,
+        "rotZ": -1.04309947E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "chip",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.191998929,
+        "g": 0.701,
+        "b": 0.16799891
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "aab3d0"
+    },
+    {
+      "Name": "backgammon_piece_white",
+      "Transform": {
+        "posX": 1.67786419,
+        "posY": 1.0752517,
+        "posZ": 10.1600266,
+        "rotX": 3.08001E-05,
+        "rotY": 0.0002214534,
+        "rotZ": -4.738939E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "chip",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.191998929,
+        "g": 0.701,
+        "b": 0.16799891
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "b627cd"
+    },
+    {
+      "Name": "backgammon_piece_white",
+      "Transform": {
+        "posX": -0.3544039,
+        "posY": 1.07525146,
+        "posZ": 9.016506,
+        "rotX": 6.12913163E-06,
+        "rotY": 352.79953,
+        "rotZ": 5.29511781E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "chip",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.1919989,
+        "g": 0.701,
+        "b": 0.16799888
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "26fdc7"
+    },
+    {
+      "Name": "backgammon_piece_white",
+      "Transform": {
+        "posX": -1.27593327,
+        "posY": 1.27277327,
+        "posZ": 9.874142,
+        "rotX": 359.98938,
+        "rotY": 8.749828,
+        "rotZ": 332.599243,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "chip",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.191998929,
+        "g": 0.701,
+        "b": 0.16799891
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "16723a"
+    },
+    {
+      "Name": "backgammon_piece_white",
+      "Transform": {
+        "posX": -1.8244586,
+        "posY": 1.07525134,
+        "posZ": 10.3477125,
+        "rotX": 5.575976E-06,
+        "rotY": 359.9684,
+        "rotZ": -1.30050521E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "chip",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.191998929,
+        "g": 0.701,
+        "b": 0.16799891
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "GUID": "07a061"
     }
   ],
-  "LuaScript": "COIN_GUID = '3f8f80'\nPOT_GUID = '39c189'\n\nASSET_GUIDS = {\n    White = {\n        total = '72d080',\n        bag = '01573b',\n        pings = 'cd0305'\n    },\n    Pink = {\n        total = 'e6db4c',\n        bag = '9a3c83',\n        pings = '9d0ca3'\n    },\n    Purple= {\n        total = 'a09bec',\n        bag = 'ce6096',\n        pings = 'd0d45e'\n    },\n    Blue = {\n        total = 'e269b8',\n        bag = '0bc4e1',\n        pings = '53ef73'\n    },\n    Green = {\n        total = '09d12a',\n        bag = 'd66c15',\n        pings = '0d3a5e'\n    },\n    Yellow = {\n        total = '4f90ae',\n        bag = '42ea41',\n        pings = '8d6829'\n    },\n    Orange = {\n        total = '5c6a34',\n        bag = 'a929e5',\n        pings = '054c54'\n    },\n    Red = {\n        total = '0e96ac',\n        bag = '928439',\n        pings = '1d2cd1'\n    }\n}\n\nfunction loadPlayerAssets()\n    -- init the player_assets table, used\n    player_assets = {}\n    for color, their_asset_guids in pairs(ASSET_GUIDS) do\n        player_assets[color] = {}\n        for asset, guid in pairs(their_asset_guids) do\n            player_assets[color][asset] = getObjectFromGUID(guid)\n        end\n    end\nend\n\nfunction onLoad()\n    -- load the most common objects from GUIDs\n    loadPlayerAssets()\n\n    pot = getObjectFromGUID(POT_GUID)\n    pot_text = {\n        getObjectFromGUID('8e0d31'),\n        getObjectFromGUID('bd6e01'),\n        getObjectFromGUID('0a85cf'),\n        getObjectFromGUID('82117f')\n    }\n    -- this the button the dirty way, rather than using XML\n    local button = getObjectFromGUID(COIN_GUID)\n    button.createButton({\n        function_owner=self,\n        click_function = 'stack',\n        position = {0, 0.1, 0},\n        width = 900,\n        height = 900,\n        label = 'stack',\n        font_size = 250\n    })\nend\n\nfunction onObjectEnterScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\nend\n\nfunction onObjectLeaveScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\n    if obj.name == 'Card' then\n        handleBaseballCard(obj)\n    end\nend\n\nfunction onPlayerChangeColor(color)\n    hideUnusedColors()\nend\n\nfunction handleScriptingZoneEvent(zone, obj)\n    -- only watch for chips entering and leaving the pot, ignore other objects and zones\n    if zone.guid == pot.guid then\n        if obj.getName() == 'chip' then\n            Wait.time(function() update_pot_totals(obj) end, 0.5)\n        end\n    end\nend\n\nfunction onObjectEnterContainer(container, obj)\n    if container.name == 'Bag' then\n        updatePlayerFunds(container)\n    end\nend\n\nfunction onObjectLeaveContainer(container, obj)\n    if container.name == 'Bag' then\n        obj.setColorTint(container.getColorTint())\n        updatePlayerFunds(container)\n    end\nend\n\nfunction format_currency(number_of_chips)\n    return string.format(\"$%.2f\", (number_of_chips * 0.25))\nend\n\nfunction getColor(obj)\n    return obj.getColorTint():toString()\nend\n\nfunction update_pot_totals(chip)\n    update_total_text()\n    update_player_ping_text(chip)\nend\n\nfunction update_total_text()\n    -- get the length of the chips in the pot array, convert to currency text\n    local text = format_currency(#getPotChips())\n    -- update the pot total text fields\n    for idx, text_label in ipairs(pot_text) do\n        text_label.setValue(text)\n    end\nend\n\nfunction update_player_ping_text(trigger_chip)\n    -- determine the color of the chip that triggered this function\n    local trigger_chip_color = getColor(trigger_chip)\n\n    -- count how many other chips are in the pot of this same color\n    local count = 0\n    for idx, chip in ipairs(getPotChips()) do\n        if getColor(chip) == trigger_chip_color then\n            count = count + 1\n        end\n    end\n\n    -- format the string, update that colors contribution text\n    local text = ' '\n    if count > 0 then\n        text = string.format('%d pings', count)\n    end\n    player_assets[trigger_chip_color].pings.setValue(text)\nend\n\nfunction getBagChipCount(bag)\n    -- count the chips in the bag, ignore other objects\n    local bag_count = 0\n    for idx, object in ipairs(bag.getObjects()) do\n        if object.name == \"chip\" then\n            bag_count = bag_count + 1\n        end\n    end\n    return bag_count\nend\n\nfunction updatePlayerFunds(bag, obj)\n    -- get the total funds text object for this bag color and update the value\n    player_assets[getColor(bag)].total.setValue(format_currency(getBagChipCount(bag)))\nend\n\n\nfunction getPotChips()\n    -- loop over all objects in the pot, return only the chip objects\n    local chips = {}\n    for idx, object in ipairs(pot.getObjects()) do\n        if object.getName() == 'chip' then\n            table.insert(chips, object)\n        end\n    end\n    return chips\nend\n\nfunction getActivePlayerColors()\n    -- loop over all players in the game, return their colors\n    local colors = {}\n    for idx, player in pairs(Player.getPlayers()) do\n        colors[player.color] = 1\n    end\n    return colors\nend\n\nfunction isActivePlayer(this_color)\n    -- for a given color, returns whether or not a player is using that color\n    local ret_val = false\n    for player_color,_ in pairs(getActivePlayerColors()) do\n        if player_color == this_color then\n            ret_val = true\n        end\n    end\n    return ret_val\nend\n\nfunction getColorsExceptThisOne(this_color)\n    -- for a given color, return a table of all colors except this one\n    local the_other_colors = {}\n    for color,_ in pairs(player_assets) do\n        if color != this_color then\n            table.insert(the_other_colors, color)\n        end\n    end\n    return the_other_colors\nend\n\nfunction hideUnusedColors()\n    hideUnusedColorsText()\n    hideOtherColorsBags()\nend\n\nfunction hideUnusedColorsText()\n    -- hide text labels for each player color if they are not in use\n    local active_colors_kv = getActivePlayerColors()\n    for color, assets in pairs(player_assets) do\n        if active_colors_kv[color] == nil then\n            assets.total.setValue(' ')\n            assets.pings.setValue(' ')\n        end\n    end\nend\n\nfunction hideOtherColorsBags()\n    for color, assets in pairs(player_assets) do\n        assets.bag.setInvisibleTo(getColorsExceptThisOne(color))\n    end\nend\n\nfunction stack()\n    -- disgusting, needs work\n    buffer = 1.25\n    total = 0\n    stack_num = 0\n    row_num = 0\n    x = -0.5\n    y = 0\n    z = -1\n    for _,o in ipairs(getPotChips()) do\n        total = total + 1\n        stack_num = stack_num + 1\n        y = y + 1\n        slowMove(o,{x,y,z})\n        if stack_num >= 4 then\n            stack_num = 0\n            row_num = row_num + 1\n            y = 0\n            x = x + buffer\n            if row_num >= 5 then\n                row_num = 0\n                x = -0.5\n                z = z + buffer\n            end\n        end\n    end\nend\n\nfunction slowMove(object, vector)\n    -- re-orients object, waits, and then moves object\n    object.setRotationSmooth({0,0,0}, false, true)\n    Wait.time(function() object.setPositionSmooth(vector, false, true) end, 1.25)\nend\n\nfunction calculateDrift(starting_amount)\n    -- currently unused WIP\n    print('=====\\nplayer standings\\n=====')\n    local drift = {}\n    for color, assets in pairs(player_assets) do\n        if isActivePlayer(color) then\n            player_funds = getBagChipCount(assets.bag) * 0.25\n            standing = player_funds - 30\n            player_name = Player[color].steam_name\n            drift[player_name] = standing\n            print(string.format('%s = $%.2f',player_name, standing))\n        end\n    end\n    return drift\nend",
+  "LuaScript": "BASE_URL = 'https://dabledop.herokuapp.com'\n-- BASE_URL = ''\n\nCOIN_GUID = '3f8f80'\nPOT_GUID = '39c189'\n\nMP3 = {\n    hey=\"https://cdn.discordapp.com/attachments/201091962978304000/780196046750875687/heyafter.mp3\",\n    hey_delay=\"https://cdn.discordapp.com/attachments/201091962978304000/780195111639842896/heydelay.mp3\",\n    john1=\"https://cdn.discordapp.com/attachments/201091962978304000/780163786534682644/part1.mp3\",\n    john2=\"https://cdn.discordapp.com/attachments/201091962978304000/780163799188897802/part2.mp3\"\n}\n\nASSET_GUIDS = {\n    White = {\n        total = '72d080',\n        bag = '01573b',\n        pings = 'cd0305'\n    },\n    Pink = {\n        total = 'e6db4c',\n        bag = '9a3c83',\n        pings = '9d0ca3'\n    },\n    Purple= {\n        total = 'a09bec',\n        bag = 'ce6096',\n        pings = 'd0d45e'\n    },\n    Blue = {\n        total = 'e269b8',\n        bag = '0bc4e1',\n        pings = '53ef73'\n    },\n    Green = {\n        total = '09d12a',\n        bag = 'd66c15',\n        pings = '0d3a5e'\n    },\n    Yellow = {\n        total = '4f90ae',\n        bag = '42ea41',\n        pings = '8d6829'\n    },\n    Orange = {\n        total = '5c6a34',\n        bag = 'a929e5',\n        pings = '054c54'\n    },\n    Red = {\n        total = '0e96ac',\n        bag = '928439',\n        pings = '1d2cd1'\n    }\n}\n\n\nfunction loadPlayerAssets()\n    -- init the player_assets table, used\n    player_assets = {}\n    for color, their_asset_guids in pairs(ASSET_GUIDS) do\n        player_assets[color] = {}\n        for asset, guid in pairs(their_asset_guids) do\n            player_assets[color][asset] = getObjectFromGUID(guid)\n        end\n    end\nend\n\nfunction onLoad()\n    -- clear out the stupid default playlist\n    MusicPlayer.setPlaylist({})\n    -- load the most common objects from GUIDs\n    loadPlayerAssets()\n\n    pot = getObjectFromGUID(POT_GUID)\n    pot_text = {\n        getObjectFromGUID('8e0d31'),\n        getObjectFromGUID('bd6e01'),\n        getObjectFromGUID('0a85cf'),\n        getObjectFromGUID('82117f')\n    }\n    -- this the button the dirty way, rather than using XML\n    local button = getObjectFromGUID(COIN_GUID)\n    button.createButton({\n        function_owner=self,\n        click_function = 'stack',\n        position = {0, 0.1, 0},\n        width = 900,\n        height = 900,\n        label = 'reset',\n        font_size = 250\n    })\n\n    -- set up flashy winning chip array\n    flashy = {}\n    color_idx = 1\n    all_colors = {}\n    for color, assets in pairs(player_assets) do\n        table.insert(all_colors, color)\n    end\nend\n\nfunction onUpdate()\n    renderFlashyObjects()\nend\n\nfunction onObjectEnterScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\nend\n\nfunction onObjectLeaveScriptingZone(zone, obj)\n    handleScriptingZoneEvent(zone,obj)\nend\n\nfunction onPlayerChangeColor(color)\n    hideUnusedColors()\n    if color != 'Grey' then\n        postPlayerAPI(color)\n    end\nend\n\nfunction onObjectPeek(object, player_color)\n    if object.name == 'Card' or object.name == 'Deck' then\n        broadcastToAll(string.format('%s is looking at cards that are not his',Player[player_color].steam_name))\n        broadcastToAll(string.format('%s is looking at cards that are not his',Player[player_color].steam_name))\n        broadcastToAll(string.format('%s is looking at cards that are not his',Player[player_color].steam_name))\n    end\nend\n\nfunction onObjectPickUp(player_color, picked_up_object)\n    handleWinningChipPickup(player_color, picked_up_object)\n    -- yell at players touch chips that aren't theirs\n    if picked_up_object.getName() == 'chip' then\n        if getColor(picked_up_object) != player_color then\n            playSoundClip('hey')\n            -- playSoundClip('hey_delay')\n        end\n    end\nend\n\nfunction playSoundClip(clip_name)\n    parameters = {\n        url=MP3[clip_name],\n        title=clip_name\n    }\n    MusicPlayer.setCurrentAudioclip(parameters)\n    MusicPlayer.play()\n    -- Wait.time(function() MusicPlayer.play() end, 1)\nend\n\nfunction handleScriptingZoneEvent(zone, obj)\n    -- only watch for chips entering and leaving the pot, ignore other objects and zones\n    if zone.guid == pot.guid then\n        if obj.getName() == 'chip' then\n            Wait.time(function() update_pot_totals(obj) end, 0.5)\n        end\n    end\nend\n\nfunction setFlashyObjects(object_name)\n    for idx, object in ipairs(getAllObjectsByName(object_name)) do\n        table.insert(flashy, object)\n    end\nend\n\nfunction renderFlashyObjects()\n    if #flashy > 0 then\n        for idx, object in ipairs(flashy) do\n            object.setColorTint(all_colors[color_idx])\n        end\n        color_idx = color_idx + 1\n        if color_idx > #all_colors then\n            color_idx = 1\n        end\n    end\nend\n\nfunction getAllObjectsByName(object_name)\n    local objects = {}\n    for idx, obj in ipairs(getAllObjects()) do\n        if obj.getName() == object_name then\n            table.insert(objects, obj)\n        end\n    end\n    return objects\nend\n\nfunction handleWinningChipPickup(player_color, picked_up_object)\n    this_object_name = picked_up_object.getName()\n    if this_object_name == 'winning_chip' or this_object_name == 'winning_chip_high' or this_object_name == 'winning_chip_low' then\n        -- stop flashing all of that name type once claimed by a color \n        --- if you don't do this it spits out errors when added to a bag\n        flashy = {}\n        for idx, chip in ipairs(getAllObjectsByName(this_object_name)) do\n            chip.setColorTint(player_color)\n            chip.setName('chip')\n            playSoundClip('john2')\n        end\n        -- keep the others flashy though\n        setFlashyObjects('winning_chip')\n        setFlashyObjects('winning_chip_high')\n        setFlashyObjects('winning_chip_low')\n    end\nend\n\nfunction onObjectEnterContainer(container, obj)\n    if container.name == 'Bag' then\n        updatePlayerFunds(container)\n    end\nend\n\nfunction onObjectLeaveContainer(container, obj)\n    if container.name == 'Bag' then\n        if obj.getName() == 'winning_chip' then\n            obj.setName('chip')\n        end\n        obj.setColorTint(container.getColorTint())\n        updatePlayerFunds(container)\n    end\nend\n\nfunction format_currency(number_of_chips)\n    return string.format(\"$%.2f\", (number_of_chips * 0.25))\nend\n\nfunction getColor(obj)\n    return obj.getColorTint():toString()\nend\n\nfunction update_pot_totals(chip)\n    update_total_text()\n    update_player_ping_text(chip)\nend\n\nfunction update_total_text()\n    -- get the length of the chips in the pot array, convert to currency text\n    local text = format_currency(#getPotChips())\n    -- update the pot total text fields\n    for idx, text_label in ipairs(pot_text) do\n        text_label.setValue(text)\n    end\nend\n\nfunction update_player_ping_text(trigger_chip)\n    -- determine the color of the chip that triggered this function\n    local trigger_chip_color = getColor(trigger_chip)\n\n    -- count how many other chips are in the pot of this same color\n    local count = 0\n    for idx, chip in ipairs(getPotChips()) do\n        if getColor(chip) == trigger_chip_color then\n            count = count + 1\n        end\n    end\n\n    -- format the string, update that colors contribution text\n    local text = ' '\n    if count > 0 then\n        text = string.format('%d pings', count)\n    end\n    player_assets[trigger_chip_color].pings.setValue(text)\nend\n\nfunction getBagChipCount(bag)\n    -- count the chips in the bag, ignore other objects\n    local bag_count = 0\n    for idx, object in ipairs(bag.getObjects()) do\n        if object.name == \"chip\" then\n            bag_count = bag_count + 1\n        end\n    end\n    return bag_count\nend\n\nfunction updatePlayerFunds(bag, obj)\n    -- get the total funds text object for this bag color and update the value\n    player_color = getColor(bag)\n    player_assets[player_color].total.setValue(format_currency(getBagChipCount(bag)))\n    local data = {\n        score=(getBagChipCount(bag)*0.25),\n        color=player_color,\n        steam_id=Player[player_color].steam_id\n    }\n    putScoreAPI(Player[player_color].steam_name, data)\nend\n\nfunction putScoreAPI(player, data)\n    local url = string.format('%s/api/scores/%s', BASE_URL, player)\n    log('yes')\n    WebRequest.put(url, JSON.encode(data), function(a) log(JSON.encode_pretty(JSON.decode(a.text))) end)\nend\n\nfunction postPlayerAPI(color)\n    data = {\n        player=Player[color].steam_name\n    }\n    local url = string.format('%s/api/scores/', BASE_URL)\n    WebRequest.post(url, data, function(a) log(JSON.encode_pretty(JSON.decode(a.text))) end)\nend\n\nfunction getPotChips()\n    -- loop over all objects in the pot, return only the chip objects\n    local chips = {}\n    for idx, object in ipairs(pot.getObjects()) do\n        if object.getName() == 'chip' or object.getName() == 'winning_chip' then\n            table.insert(chips, object)\n        end\n    end\n    return chips\nend\n\nfunction getActivePlayerColors()\n    -- loop over all players in the game, return their colors\n    local colors = {}\n    for idx, player in pairs(Player.getPlayers()) do\n        colors[player.color] = 1\n    end\n    return colors\nend\n\nfunction isActivePlayer(this_color)\n    -- for a given color, returns whether or not a player is using that color\n    local ret_val = false\n    for player_color,_ in pairs(getActivePlayerColors()) do\n        if player_color == this_color then\n            ret_val = true\n        end\n    end\n    return ret_val\nend\n\nfunction getColorsExceptThisOne(this_color)\n    -- for a given color, return a table of all colors except this one\n    local the_other_colors = {}\n    for color,_ in pairs(player_assets) do\n        if color != this_color then\n            table.insert(the_other_colors, color)\n        end\n    end\n    return the_other_colors\nend\n\nfunction hideUnusedColors()\n    hideUnusedColorsText()\n    hideOtherColorsBags()\nend\n\nfunction hideUnusedColorsText()\n    -- hide text labels for each player color if they are not in use\n    local active_colors_kv = getActivePlayerColors()\n    for color, assets in pairs(player_assets) do\n        if active_colors_kv[color] == nil then\n            assets.total.setValue(' ')\n            assets.pings.setValue(' ')\n        end\n    end\nend\n\nfunction hideOtherColorsBags()\n    for color, assets in pairs(player_assets) do\n        assets.bag.setInvisibleTo(getColorsExceptThisOne(color))\n    end\nend\n\n\nfunction stack()\n    local buffer = 1.25\n    local total = 0\n    local stack_num = 0\n    local row_num = 0\n    local x = -0.5\n    local y = 1\n    local z = 1\n    local chipsPresent = false\n    for _,o in ipairs(getPotChips()) do\n        chipsPresent = true\n        z = -z\n        total = total + 1\n        stack_num = stack_num + 1\n        y = y + 0.5\n        slowMove(o,{x,y,z})\n        if stack_num >= 8 then\n            stack_num = 0\n            row_num = row_num + 1\n            y = 1\n            x = x + buffer\n            if row_num >= 5 then\n                row_num = 0\n                x = -0.5\n                z = z + buffer\n            end\n        end\n        -- designate this a winning chip and make it flashy\n        table.insert(flashy, o)\n        ptt = true\n        if ptt then\n            o.setName('winning_chip_low')\n            if z < 0 then\n                o.setName('winning_chip_high')\n            end\n        else\n            o.setName('winning_chip')\n        end\n    end\n    if chipsPresent then\n        playSoundClip('john1')\n    end\n    -- return all cards to the deck and shuffle it up\n    shuffle()\nend\n\nfunction shuffle()\n    -- rotate and reposition all cards or decks currently on the table \n    -- this will form decks by merging them\n    for idx, object in ipairs(getAllObjects()) do\n        if object.name == \"Card\" or object.name ==\"Deck\" then\n            object.setRotationSmooth({180,0,0}, false, true)\n            Wait.time(function() object.setPositionSmooth({-3,2.5,0}, false, false) end, 2)\n        end\n    end\n    -- wait and then put all hands into the newly formed deck\n    -- Wait.time(function() returnHandCards() end, 3)\n    Wait.time(function()\n        -- discover the deck on the table\n        local deck = nil\n        for idx, object in ipairs(getAllObjects()) do\n            if object.name ==\"Deck\" then\n                deck = object\n            end\n        end\n        -- for each card in any player's hands, move to the deck\n        if deck then\n            for color, assets in pairs(player_assets) do\n                for idx, object in ipairs(Player[color].getHandObjects()) do\n                    if object.name ==\"Card\" then\n                        deck.putObject(object)\n                    end\n                end\n            end\n        end\n        -- once all cards have returned, shuffle it a few times\n        Wait.time(function() deck.shuffle() end, 1.5)\n        Wait.time(function() deck.shuffle() end, 1.75)\n        Wait.time(function() deck.shuffle() end, 2)\n        Wait.time(function() deck.shuffle() end, 2.25)\n    end, 3)\n    \nend\n\nfunction returnHandCards()\n    -- discover the deck on the table\n    local deck = nil\n    for idx, object in ipairs(getAllObjects()) do\n        if object.name ==\"Deck\" then\n            deck = object\n        end\n    end\n    -- for each card in any player's hands, move to the deck\n    if deck then\n        for color, assets in pairs(player_assets) do\n            for idx, object in ipairs(Player[color].getHandObjects()) do\n                if object.name ==\"Card\" then\n                    deck.putObject(object)\n                end\n            end\n        end\n    end\nend\n\nfunction slowMove(object, vector)\n    -- re-orients object, waits, and then moves object\n    object.setRotationSmooth({0,0,0}, false, true)\n    Wait.time(function() object.setPositionSmooth(vector, false, true) end, 1)\n    Wait.time(function() object.setPositionSmooth(vector, false, true) end, 3)\nend\n\nfunction calculateDrift(starting_amount)\n    -- currently unused WIP\n    print('=====\\nplayer standings\\n=====')\n    local drift = {}\n    for color, assets in pairs(player_assets) do\n        if isActivePlayer(color) then\n            player_funds = getBagChipCount(assets.bag) * 0.25\n            standing = player_funds - 30\n            player_name = Player[color].steam_name\n            drift[player_name] = standing\n            print(string.format('%s = $%.2f',player_name, standing))\n        end\n    end\n    return drift\nend",
   "LuaScriptState": "",
   "XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
   "VectorLines": [
@@ -5691,378 +5623,6 @@
   "SnapPoints": [
     {
       "Position": {
-        "x": -3.85957718,
-        "y": 0.9611349,
-        "z": -12.3823032
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 180.0,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -1.7069056,
-        "y": 0.9611349,
-        "z": -12.4053583
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 180.0,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 12.4270134,
-        "y": 0.9611349,
-        "z": -3.57799864
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 90.00001,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 12.5442019,
-        "y": 0.9611349,
-        "z": -1.18570733
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 90.00001,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 12.4547148,
-        "y": 0.9611349,
-        "z": 1.21175337
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 90.00001,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 12.5131083,
-        "y": 0.9611349,
-        "z": 3.74094152
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 90.00001,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 2.42162228,
-        "y": 0.9618495,
-        "z": 12.5731344
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 3.81469727E-06,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 0.429133028,
-        "y": 0.961567342,
-        "z": 12.6019392
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 3.81469727E-06,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -1.51821041,
-        "y": 0.9612922,
-        "z": 12.6317406
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 3.81469727E-06,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -12.425724,
-        "y": 0.9611349,
-        "z": 3.726408
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 269.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -12.5078659,
-        "y": 0.9611349,
-        "z": 1.65775454
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 269.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -12.5099268,
-        "y": 0.9611349,
-        "z": -0.6292746
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 269.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -12.5221462,
-        "y": 0.9611349,
-        "z": -2.62904263
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 269.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 5.853494,
-        "y": 0.9611349,
-        "z": -11.6016617
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 135.0,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 7.34436226,
-        "y": 0.9611349,
-        "z": -10.2029047
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 135.0,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 9.105475,
-        "y": 0.9611349,
-        "z": -8.394047
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 135.0,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 10.4407978,
-        "y": 0.9611349,
-        "z": -7.0304594
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 120.000008,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -11.6358147,
-        "y": 0.9611349,
-        "z": -5.935113
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 224.999985,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -10.1834412,
-        "y": 0.9611349,
-        "z": -7.46766043
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 224.999985,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -8.699703,
-        "y": 0.9611349,
-        "z": -8.975176
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 224.999985,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -7.31777859,
-        "y": 0.9611349,
-        "z": -10.40234
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 224.999985,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -5.99656773,
-        "y": 0.9611349,
-        "z": 11.5149307
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 314.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -7.545267,
-        "y": 0.9611349,
-        "z": 10.3089466
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 314.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -10.603157,
-        "y": 0.9611349,
-        "z": 7.66921329
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 314.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 12.2094412,
-        "y": 0.9611349,
-        "z": 6.37447548
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 45.0000038,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 10.5521669,
-        "y": 0.961525,
-        "z": 8.287523
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 45.0000038,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 8.821478,
-        "y": 0.9619058,
-        "z": 10.0792027
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 45.0000038,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 6.943073,
-        "y": 0.9622384,
-        "z": 11.79523
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 45.0000038,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": -9.000739,
-        "y": 0.9611349,
-        "z": 9.001383
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 314.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
-        "x": 0.712942958,
-        "y": 0.9611349,
-        "z": -12.3823032
-      },
-      "Rotation": {
-        "x": -0.000694704941,
-        "y": 179.967346,
-        "z": 4.65067863
-      }
-    },
-    {
-      "Position": {
-        "x": 3.0247643,
-        "y": 0.9611349,
-        "z": -12.358633
-      },
-      "Rotation": {
-        "x": 0.0,
-        "y": 179.999969,
-        "z": 0.0
-      }
-    },
-    {
-      "Position": {
         "x": -41.6452,
         "y": 0.9611349,
         "z": 14.3551769
@@ -6070,50 +5630,494 @@
     },
     {
       "Position": {
-        "x": 2.773129,
+        "x": -3.00004244,
         "y": 0.9611349,
-        "z": 0.06831776
+        "z": 0.00363739766
       },
       "Rotation": {
-        "x": -2.96033318E-06,
-        "y": 180.0,
+        "x": -1.51247036E-06,
+        "y": 180.046783,
         "z": 180.0
       }
     },
     {
       "Position": {
-        "x": -3.62285042,
+        "x": -3.69194,
         "y": 0.9611349,
-        "z": 12.5344238
+        "z": -13.020504
       },
       "Rotation": {
-        "x": 0.0,
-        "y": 3.81469727E-06,
-        "z": 0.0
+        "x": 4.80151866E-05,
+        "y": 179.998962,
+        "z": 3.33883763E-05
       }
     },
     {
       "Position": {
-        "x": 4.61100054,
-        "y": 0.9621976,
-        "z": 12.6462116
+        "x": -1.82127166,
+        "y": 0.9611349,
+        "z": -13.0205584
       },
       "Rotation": {
-        "x": 2.35599077E-06,
-        "y": -7.15255737E-05,
-        "z": 180.000015
+        "x": 8.0022066E-05,
+        "y": 180.000412,
+        "z": 0.8324087
       }
     },
     {
       "Position": {
-        "x": -12.0108309,
+        "x": 0.0493136644,
         "y": 0.9611349,
-        "z": 6.095668
+        "z": -13.0205107
       },
       "Rotation": {
-        "x": 0.0,
-        "y": 180.0,
-        "z": 0.0
+        "x": 5.16625332E-05,
+        "y": 179.9997,
+        "z": 0.83246994
+      }
+    },
+    {
+      "Position": {
+        "x": 1.91982186,
+        "y": 0.9611349,
+        "z": -13.0205412
+      },
+      "Rotation": {
+        "x": 9.460409E-06,
+        "y": 180.001419,
+        "z": 0.8334169
+      }
+    },
+    {
+      "Position": {
+        "x": 3.79052758,
+        "y": 0.9611349,
+        "z": -13.02053
+      },
+      "Rotation": {
+        "x": 2.73880551E-06,
+        "y": 180.000046,
+        "z": 0.833453953
+      }
+    },
+    {
+      "Position": {
+        "x": 6.456414,
+        "y": 0.9611349,
+        "z": -11.8071928
+      },
+      "Rotation": {
+        "x": 3.63534527E-05,
+        "y": 134.999329,
+        "z": -0.000148545209
+      }
+    },
+    {
+      "Position": {
+        "x": 7.77949,
+        "y": 0.9611349,
+        "z": -10.4840775
+      },
+      "Rotation": {
+        "x": 1.66219052E-05,
+        "y": 135.001572,
+        "z": 0.832165658
+      }
+    },
+    {
+      "Position": {
+        "x": 9.102229,
+        "y": 0.9611349,
+        "z": -9.161421
+      },
+      "Rotation": {
+        "x": 4.77046E-05,
+        "y": 135.001175,
+        "z": 0.833443
+      }
+    },
+    {
+      "Position": {
+        "x": 10.424902,
+        "y": 0.9611349,
+        "z": -7.83871841
+      },
+      "Rotation": {
+        "x": -9.604954E-07,
+        "y": 135.022125,
+        "z": 0.833069563
+      }
+    },
+    {
+      "Position": {
+        "x": 11.7475939,
+        "y": 0.9611349,
+        "z": -6.5159874
+      },
+      "Rotation": {
+        "x": 6.510024E-06,
+        "y": 135.002975,
+        "z": 0.83351326
+      }
+    },
+    {
+      "Position": {
+        "x": 12.9971085,
+        "y": 0.9611349,
+        "z": -3.77246881
+      },
+      "Rotation": {
+        "x": 5.066785E-05,
+        "y": 89.98276,
+        "z": -0.000309659663
+      }
+    },
+    {
+      "Position": {
+        "x": 12.99745,
+        "y": 0.9611349,
+        "z": -1.9010011
+      },
+      "Rotation": {
+        "x": 4.61838172E-05,
+        "y": 89.97925,
+        "z": 0.832570255
+      }
+    },
+    {
+      "Position": {
+        "x": 12.9972553,
+        "y": 0.9611349,
+        "z": -0.0301356837
+      },
+      "Rotation": {
+        "x": 6.176519E-05,
+        "y": 89.97464,
+        "z": 0.832538068
+      }
+    },
+    {
+      "Position": {
+        "x": 12.9970589,
+        "y": 0.9611349,
+        "z": 1.84025514
+      },
+      "Rotation": {
+        "x": 3.48446374E-05,
+        "y": 89.96145,
+        "z": 0.833215
+      }
+    },
+    {
+      "Position": {
+        "x": 12.995368,
+        "y": 0.9611349,
+        "z": 3.71115
+      },
+      "Rotation": {
+        "x": 4.002064E-06,
+        "y": 89.9667,
+        "z": 0.8331908
+      }
+    },
+    {
+      "Position": {
+        "x": 11.8470793,
+        "y": 0.9611349,
+        "z": 6.50524664
+      },
+      "Rotation": {
+        "x": 4.049212E-05,
+        "y": 45.00076,
+        "z": -0.000280526147
+      }
+    },
+    {
+      "Position": {
+        "x": 10.5223913,
+        "y": 0.9611349,
+        "z": 7.82987452
+      },
+      "Rotation": {
+        "x": 5.2693842E-05,
+        "y": 45.0095329,
+        "z": 0.8318001
+      }
+    },
+    {
+      "Position": {
+        "x": 9.197938,
+        "y": 0.9611349,
+        "z": 9.154332
+      },
+      "Rotation": {
+        "x": 5.02392431E-05,
+        "y": 45.0079422,
+        "z": 0.8315641
+      }
+    },
+    {
+      "Position": {
+        "x": 7.873248,
+        "y": 0.9611349,
+        "z": 10.4790163
+      },
+      "Rotation": {
+        "x": 5.09596157E-06,
+        "y": 45.0050735,
+        "z": 0.8318238
+      }
+    },
+    {
+      "Position": {
+        "x": 6.54844666,
+        "y": 0.9611349,
+        "z": 11.8036118
+      },
+      "Rotation": {
+        "x": 1.00852012E-05,
+        "y": 44.9693336,
+        "z": 0.8321273
+      }
+    },
+    {
+      "Position": {
+        "x": 3.77620983,
+        "y": 0.9611349,
+        "z": 13.0132761
+      },
+      "Rotation": {
+        "x": 4.55131558E-05,
+        "y": -0.003513503,
+        "z": 7.055236E-05
+      }
+    },
+    {
+      "Position": {
+        "x": 1.90276015,
+        "y": 0.9611349,
+        "z": 13.0132017
+      },
+      "Rotation": {
+        "x": 3.49016627E-05,
+        "y": 0.00277685723,
+        "z": 0.8315348
+      }
+    },
+    {
+      "Position": {
+        "x": 0.0294786729,
+        "y": 0.9611349,
+        "z": 13.0132141
+      },
+      "Rotation": {
+        "x": 8.850486E-05,
+        "y": 0.00338689424,
+        "z": 0.83186996
+      }
+    },
+    {
+      "Position": {
+        "x": -1.84401929,
+        "y": 0.9611349,
+        "z": 13.0132122
+      },
+      "Rotation": {
+        "x": 4.02509831E-05,
+        "y": 0.00216401438,
+        "z": 0.831137061
+      }
+    },
+    {
+      "Position": {
+        "x": -3.717559,
+        "y": 0.9611349,
+        "z": 13.013073
+      },
+      "Rotation": {
+        "x": 5.93067261E-06,
+        "y": -0.0005181504,
+        "z": 0.8320474
+      }
+    },
+    {
+      "Position": {
+        "x": -6.429761,
+        "y": 0.9611349,
+        "z": 11.7709064
+      },
+      "Rotation": {
+        "x": -8.233712E-05,
+        "y": 314.998932,
+        "z": 7.885516E-05
+      }
+    },
+    {
+      "Position": {
+        "x": -7.753824,
+        "y": 0.9611349,
+        "z": 10.4468737
+      },
+      "Rotation": {
+        "x": 1.31801307E-05,
+        "y": 315.0017,
+        "z": 0.832053363
+      }
+    },
+    {
+      "Position": {
+        "x": -9.077871,
+        "y": 0.9611349,
+        "z": 9.122852
+      },
+      "Rotation": {
+        "x": 6.915566E-05,
+        "y": 314.997833,
+        "z": 0.832307935
+      }
+    },
+    {
+      "Position": {
+        "x": -10.4017229,
+        "y": 0.9611349,
+        "z": 7.79898262
+      },
+      "Rotation": {
+        "x": 3.83130937E-05,
+        "y": 314.999573,
+        "z": 0.831712067
+      }
+    },
+    {
+      "Position": {
+        "x": -11.7254448,
+        "y": 0.9611349,
+        "z": 6.475183
+      },
+      "Rotation": {
+        "x": 1.34469346E-05,
+        "y": 314.9748,
+        "z": 0.832747161
+      }
+    },
+    {
+      "Position": {
+        "x": -12.9898443,
+        "y": 0.9611349,
+        "z": 3.76038265
+      },
+      "Rotation": {
+        "x": 6.949977E-05,
+        "y": 270.000336,
+        "z": -0.000454848545
+      }
+    },
+    {
+      "Position": {
+        "x": -12.989809,
+        "y": 0.9611349,
+        "z": 1.88709259
+      },
+      "Rotation": {
+        "x": 1.8783021E-05,
+        "y": 269.999329,
+        "z": 0.8315248
+      }
+    },
+    {
+      "Position": {
+        "x": -12.9898129,
+        "y": 0.9611349,
+        "z": 0.0138760936
+      },
+      "Rotation": {
+        "x": 5.242704E-05,
+        "y": 270.0,
+        "z": 0.8322175
+      }
+    },
+    {
+      "Position": {
+        "x": -12.9897823,
+        "y": 0.9611349,
+        "z": -1.85911429
+      },
+      "Rotation": {
+        "x": 1.98235575E-05,
+        "y": 270.0028,
+        "z": 0.8317202
+      }
+    },
+    {
+      "Position": {
+        "x": -12.9898424,
+        "y": 0.9611349,
+        "z": -3.732075
+      },
+      "Rotation": {
+        "x": 5.202683E-06,
+        "y": 270.0003,
+        "z": 0.8323278
+      }
+    },
+    {
+      "Position": {
+        "x": -11.8708649,
+        "y": 0.9611349,
+        "z": -6.53964138
+      },
+      "Rotation": {
+        "x": -2.7787788E-05,
+        "y": 224.997787,
+        "z": -0.000129504551
+      }
+    },
+    {
+      "Position": {
+        "x": -10.5484943,
+        "y": 0.9611349,
+        "z": -7.86025572
+      },
+      "Rotation": {
+        "x": 7.131678E-05,
+        "y": 224.999161,
+        "z": 0.8335825
+      }
+    },
+    {
+      "Position": {
+        "x": -9.226214,
+        "y": 0.9611349,
+        "z": -9.180024
+      },
+      "Rotation": {
+        "x": 4.75712E-05,
+        "y": 224.990891,
+        "z": 0.833742261
+      }
+    },
+    {
+      "Position": {
+        "x": -7.903895,
+        "y": 0.9611349,
+        "z": -10.5008106
+      },
+      "Rotation": {
+        "x": 4.49031577E-05,
+        "y": 224.989609,
+        "z": 0.834083259
+      }
+    },
+    {
+      "Position": {
+        "x": -6.58198929,
+        "y": 0.9611349,
+        "z": -11.8202791
+      },
+      "Rotation": {
+        "x": 2.561321E-06,
+        "y": 225.00293,
+        "z": 0.8342067
       }
     }
   ],
