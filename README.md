@@ -7,17 +7,17 @@
 
 ### game setup
 - [x] ~~toggle hide assets for inactive players~~
-- [ ] buy-in button to dish out starting money (or standard starting amount)
+- [x] ~~buy-in button to dish out starting money (or standard starting amount)~~
 
 ### gameplay
-- [ ] split the pot button
+- [x] ~~split the pot button~~
 - [x] ~~count each person's contributions to the pot (by chip color?)~~
 - [ ] calculate final payment plan
 - [x] ~~theft protection/logging when you pull funds from another player's bag~~
-- [ ] more reliable "return to deck" - standard card deck reset is unreliable
+- [x] ~~more reliable "return to deck" - standard card deck reset is unreliable~~
 
 ### game modes
-- [ ] baseball - face-up 3/4/9 cards on the table are marked differently somehow 
+- [] baseball - face-up 3/4/9 cards on the table are marked differently somehow 
 - [ ] pass-the-trash
   - [x] Scripted dealing
   - [ ] Scripted passing
